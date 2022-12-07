@@ -1,0 +1,137 @@
+# Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX
+
+itemGroup.Aquaculture=Aquaculture
+
+# Enchantments
+enchantment.aquacultureAppealing=Attirant
+enchantment.aquacultureBarbedHook=Crochet barbelé
+enchantment.aquacultureDoubleHook=Crochet double
+enchantment.aquacultureFastCast=Lancer rapide
+enchantment.aquacultureHeavyLine=Ligne lourde
+enchantment.aquacultureLongCast=Lancer long
+enchantment.aquacultureMagnetic=Magnétique
+enchantment.aquacultureShortCast=Lancer court
+
+# Rod
+item.fishingRod.name=Canne à pêche en bois
+item.IronFishingRod.name=Canne à pêche en fer
+item.GoldFishingRod.name=Canne à pêche en or
+item.DiamondFishingRod.name=Canne à pêche en diamant
+item.AdminFishingRod.name=Canne à pêche administrative
+
+item.Seaweed.name=Algue de mer
+item.Algae.name=Algae
+
+# Food
+item.RawWhaleSteak.name=Steak de baleine cru
+item.RawFishFillet.name=Filet de poisson cru
+item.CookedFishFillet.name=Filet de poisson cuit
+item.CookedWhaleSteak.name=Steak de baleine cuit
+item.Whaleburger.name=Burger de baleine cuit
+item.FrogLegs.name=Cuisses de grenouilles
+item.CookedFrogLegs.name=Cuisses de grenouilles cuites
+item.TurtleSoup.name=Soupe de tortue
+item.Sushi.name=Sushi
+
+# Misc Items
+item.Driftwood.name=Bois flotté
+item.TinCan.name=Boîte de conserve
+item.MessageInABottle.name=Message dans une bouteille
+item.Box.name=Boîte
+item.Lockbox.name=Coffre-fort
+item.TreasureChest.name=Coffre au trésor
+
+item.NeptuniumIngot.name=Lingot de neptunium
+item.NeptunesBounty.name=La générosité de Neptune
+item.NeptuniumPickaxe.name=Pioche de Neptunium
+item.NeptuniumShovel.name=Pelle de neptunium
+item.NeptuniumAxe.name=Hache de neptunium
+item.NeptuniumHoe.name=Houe de neptunium
+item.NeptuniumSword.name=Épée de Neptunium
+item.NeptuniumHelmet.name=Casque de Neptunium
+item.NeptuniumChestplate.name=Plastron de Neptunium
+item.NeptuniumLeggings.name=Jambières de Neptunium
+item.NeptuniumBoots.name=Bottes de Neptunium
+
+# Fish
+item.Fish.name=Poisson
+item.Fish.Bluegill.name=Crapet arlequin
+item.Fish.Perch.name=Perche
+item.Fish.Gar.name=Gar
+item.Fish.Bass.name=Bar
+item.Fish.Muskellunge.name=Maskinongé
+item.Fish.Brown_Trout.name=Truite brune
+item.Fish.Catfish.name=Poisson-chat
+item.Fish.Carp.name=Carpe
+item.Fish.Blowfish.name=Poisson-globe
+item.Fish.Red_Grouper.name=Mérou rouge
+item.Fish.Salmon.name=Saumon
+item.Fish.Tuna.name=Thon
+item.Fish.Swordfish.name=Espadon
+item.Fish.Shark.name=Requin
+item.Fish.Whale.name=Baleine
+item.Fish.Squid.name=Calamar
+item.Fish.Jellyfish.name=Méduse
+item.Fish.Frog.name=Grenouille
+item.Fish.Turtle.name=Tortue
+item.Fish.Leech.name=Sangsue
+item.Fish.Pirahna.name=Pirahna
+item.Fish.Electric_Eel.name=Anguille électrique
+item.Fish.Tambaqui.name=Tambaqui
+item.Fish.Arapaima.name=Arapaima
+item.Fish.Cod.name=Morue
+item.Fish.Pollock.name=Lieu noir
+item.Fish.Herring.name=Hareng
+item.Fish.Halibut.name=Flétan
+item.Fish.Pink_Salmon.name=Saumon rose
+item.Fish.Rainbow_Trout.name=Truite arc-en-ciel
+item.Fish.Blackfish.name=Poisson noir
+item.Fish.Capitaine.name=Capitaine
+item.Fish.Boulti.name=Tilapia du Nil
+item.Fish.Bagrid.name=Bagridé
+item.Fish.Syndontis.name=Synodontis
+item.Fish.Red_Shrooma.name=Champi rouge
+item.Fish.Brown_Shrooma.name=Champignon brun
+item.Fish.Goldfish.name=Poisson rouge
+item.Fish.Fish_Bones.name=Arêtes de poisson
+
+# Message in a bottle
+aquaculture.message=ERREUR! Poisson qui s'échappe !
+aquaculture.message1=Comment puis-je extraire du poisson ?
+aquaculture.message2=Le docteur a dit que je devrais commencer à refouler mes sentiments.
+aquaculture.message3=À l'aide, je suis piégé dans un message d'une usine de fabrication de bouteilles !
+aquaculture.message4=Ma maison a été détruite, envoyez des provisions !
+aquaculture.message5=Hé ! Par ici ! Je pense que je te vois !
+aquaculture.message6=Haha, maintenant VOUS êtes en train de jeter des ordures !
+aquaculture.message7=Propriété de Creeper-Cola.
+aquaculture.message8=Attention : risque d'étouffement, tenir hors de portée des enfants.
+aquaculture.message9=Si vous obtenez ceci, c'est vous du futur, ne mangez PAS la côtelette de porc.
+aquaculture.message10=Admettez-en un, le casier de Davy Jones.
+aquaculture.message11=9.17 N 19.89 E
+aquaculture.message12=La Neptunite est RÉELLE, je vous le dis ! Je n'inventais rien !
+aquaculture.message13=Agrandissez votre canne à pêche pour seulement 19,95 pièces d'or ! Garanti!
+aquaculture.message14=Qu'est-ce que la fishallurgie ? Une sorte de réaction au poisson?
+aquaculture.message15=BURGERS AUX BALEINES ! 2x Pain + Steak de baleine ! À FAIRE CONNAITRE!
+aquaculture.message16=Depuis que je suis arrivé à terre, les choses n'ont plus été les mêmes, car dès que j'ai mis le pied sur le rivage, j'ai totalement perdu la partie...
+aquaculture.message17=Appuyez sur Alt+F4 pour des diamants gratuits !
+aquaculture.message18=Oh j'ai un beau bouquet de noix de coco...
+aquaculture.message19=J'ai rejoint une tribu de cannibales pour rencontrer de nouvelles personnes.
+aquaculture.message20=Tant de place pour les ACTIVITÉS !
+aquaculture.message21=Cher Shadowclaimer, ajoutez des hyperdiamants Unobtainium qui sont invulnérables avec des outils et une armure de vitesse d'extraction instantanée. Cordialement, Tout le monde.
+aquaculture.message22=Cher Shadowclaimer, alors quand est-ce que la 1.X sort ? Cordialement, Tout le monde.
+aquaculture.message23=Chers fans, salut ! Cordialement, Shadowclaimer.
+aquaculture.message24=Le thoninvers est vraiment un endroit incroyable
+aquaculture.message25=Exception de pointeur nul : Aquaculture.MessageInABottle (String) ne peut pas être nul.
+aquaculture.message26=Je broie une armure de diamant tous les matins et je la mange rapidement. - mDiyo
+aquaculture.message27=-Le message disparaît comme par magie de votre main.-
+aquaculture.message28=Regardez-moi, maintenant de retour à votre inventaire, maintenant de retour à moi, ce message est maintenant DIAMANTS ! Non, je plaisante, c'est toujours du papier.
+aquaculture.message29=Recyclez pour 5 cuivres.
+
+# Enchantments
+enchantment.aquaculture.barbed_hook.desc=Cela donne à une canne à pêche une fenêtre de capture plus élevée.
+enchantment.aquaculture.heavy_line.desc=Les poissons capturés par cet enchantement sont plus lourds.
+enchantment.aquaculture.double_hook.desc=Vous avez une chance d'attraper deux poissons au lieu d'un.
+enchantment.aquaculture.appealing.desc=Attrapez plus de poissons, par opposition au butin.
+enchantment.aquaculture.long_cast.desc=La canne à pêche peut être lancée plus loin.
+enchantment.aquaculture.short_cast.desc=La canne à pêche peut être lancée plus près.
+enchantment.aquaculture.magnetic.desc=Attrapez plus de butin, par opposition au poisson.
