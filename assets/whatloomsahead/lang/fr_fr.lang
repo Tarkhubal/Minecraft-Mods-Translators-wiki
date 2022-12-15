@@ -1,0 +1,31 @@
+# Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX
+
+tile.whatloomsahead.loom.name=Métier à tisser
+
+item.whatloomsahead.banner_pattern.name=Modèle de bannière
+
+item.whatloomsahead.banner_pattern_creeper.desc=Charge de Creeper
+item.whatloomsahead.banner_pattern_flower.desc=Charge de Fleur
+item.whatloomsahead.banner_pattern_globe.desc=Globe
+item.whatloomsahead.banner_pattern_mojang.desc=Chose
+item.whatloomsahead.banner_pattern_skull.desc=Charge du Crâne
+
+item.banner.whatloomsahead_globe.black=Globe noir
+item.banner.whatloomsahead_globe.red=Globe rouge
+item.banner.whatloomsahead_globe.green=Globe vert
+item.banner.whatloomsahead_globe.brown=Globe marron
+item.banner.whatloomsahead_globe.blue=Globe bleu
+item.banner.whatloomsahead_globe.purple=Globe violet
+item.banner.whatloomsahead_globe.cyan=Globe cyan
+item.banner.whatloomsahead_globe.silver=Globe gris clair
+item.banner.whatloomsahead_globe.gray=Globe gris
+item.banner.whatloomsahead_globe.pink=Globe rose
+item.banner.whatloomsahead_globe.lime=Globe vert clair
+item.banner.whatloomsahead_globe.yellow=Globe jaune
+item.banner.whatloomsahead_globe.lightBlue=Globe bleu clair
+item.banner.whatloomsahead_globe.magenta=Globe magenta
+item.banner.whatloomsahead_globe.orange=Globe orange
+item.banner.whatloomsahead_globe.white=Globe blanc
+
+subtitle.whatloomsahead.loom_select_pattern=Interactions with Loom
+subtitle.whatloomsahead.loom_take_result=Interactions with Loom

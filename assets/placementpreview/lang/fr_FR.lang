@@ -1,0 +1,10 @@
+# Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX
+
+language.name=Français
+language.region=France
+language.code=fr_FR
+
+category.placementpreview=Placement Preview
+placementpreview.key.toggle.enabled=Basculement activé
+placementpreview.key.toggle.ghost=Basculer les blocs fantômes
+placementpreview.key.toggle.wire=Basculer le fil de fer

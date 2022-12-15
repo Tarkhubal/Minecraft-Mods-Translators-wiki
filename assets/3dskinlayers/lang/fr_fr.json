@@ -1,0 +1,20 @@
+{
+    "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+    "text.skinlayers.title": "Paramètres de 3D Skin Layer",
+    "text.skinlayers.enable.hat": "Chapeau 3D",
+    "text.skinlayers.enable.jacket": "Veste 3D",
+    "text.skinlayers.enable.leftsleeve": "Manche gauche 3D",
+    "text.skinlayers.enable.rightsleeve": "Manche droite 3D",
+    "text.skinlayers.enable.leftpants": "Pantalon gauche 3D",
+    "text.skinlayers.enable.rightpants": "Pantalon droit 3D",
+    "text.skinlayers.renderdistancelod": "Distance du niveau de détail",
+    "text.skinlayers.basevoxelsize": "Taille des voxels",
+    "text.skinlayers.headvoxelsize": "Taille du voxel de la tête",
+    "text.skinlayers.bodyvoxelheightsize": "Hauteur du voxel du corps",
+    "text.skinlayers.bodyvoxelwidthsize": "Largeur du voxel du torse",
+    "text.skinlayers.skulls.enable": "Crânes 3D",
+    "text.skinlayers.skullsitems.enable": "Objets de crâne 3D",
+    "text.skinlayers.skulls.voxelsize": "Taille du voxel du crâne",
+    "text.skinlayers.reset": "Défaut",
+    "text.skinlayers.fastrender.enable": "Rendu rapide"
+}

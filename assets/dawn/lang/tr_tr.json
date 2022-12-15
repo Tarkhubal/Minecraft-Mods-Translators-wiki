@@ -1,0 +1,8 @@
+{
+	"enchantment.dawn.telekinesis": "Telekinesis",
+	"effect.dawn.heaviness": "Ağırlık",
+	"effect.dawn.poison_resistance": "Zehir Direnci",
+	"text.autoconfig.dawn.category.features": "Özellikler",
+	"text.autoconfig.dawn.option.features.healthCommand": "/health'i aktifleştir",
+	"text.autoconfig.dawn.option.features.motionCommand": "/motion'ı Aktifleştir"
+}

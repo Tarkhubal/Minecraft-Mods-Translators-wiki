@@ -1,0 +1,8 @@
+# Traducted partially by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX
+
+# gui - categories
+lunatriuscore.versioncheck=Vérification de version
+
+# gui - config - update checker
+lunatriuscore.versioncheck.checkforupdates=Vérifier les mises à jour
+lunatriuscore.versioncheck.checkforupdates.tooltip=Le mod doit-il vérifier si des mises à jour sont disponibles ?

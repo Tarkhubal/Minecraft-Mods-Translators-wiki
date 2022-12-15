@@ -1,0 +1,23 @@
+{
+    "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+    "text.firstperson.title": "Paramètres de FirstPerson",
+    "key.firstperson.toggle": "Basculer la première personne",
+
+    "category.firstperson.firstperson": "FirstPerson",
+    "text.firstperson.option.firstperson.xOffset": "Debout x Décalage",
+    "text.firstperson.option.firstperson.xOffset.@Tooltip": "Déplace le corps par rapport à la caméra d'avant en arrière",
+    "text.firstperson.option.firstperson.sneakXOffset": "S'accroupir x Décalage",
+    "text.firstperson.option.firstperson.sneakXOffset.@Tooltip": "Déplace le corps par rapport à la caméra d'avant en arrière tout en s'accroupissant",
+    "text.firstperson.option.firstperson.enabledByDefault": "Activé par défaut",
+    "text.firstperson.option.firstperson.enabledByDefault.@Tooltip": "L'état par défaut du mod FirstPerson après le démarrage du jeu",
+    "text.firstperson.option.firstperson.sitXOffset": "Assis x Décalage",
+    "text.firstperson.option.firstperson.sitXOffset.@Tooltip": "Déplace le corps par rapport à la caméra d'avant en arrière en position assise",
+    "text.firstperson.option.firstperson.renderStuckFeatures": "Rendre les flèches et les piqûres",
+    "text.firstperson.option.firstperson.renderStuckFeatures.@Tooltip": "Affiche les flèches, les piqûres d'abeilles ou d'autres fonctionnalités modifiées à la première personne",
+    "text.firstperson.option.firstperson.vanillaHands": "Mains Vanilla",
+    "text.firstperson.option.firstperson.vanillaHands.@Tooltip": "Montre les mains Vanilla à la première personne, mais aussi le modèle du joueur (mais sans les bras)",
+    "text.firstperson.option.firstperson.doubleHands": "Mains doubles",
+    "text.firstperson.option.firstperson.doubleHands.@Tooltip": "Lors de l'utilisation des mains Vanilla, il montrera toujours les deux mains",
+    "text.firstperson.option.firstperson.forceActive": "Forcer l'activation",
+    "text.firstperson.option.firstperson.forceActive.@Tooltip": "Force le mod FirstPerson lorsque d'autres mods modifient le rendu, mais causera des problèmes visuels (par exemple, la tête du joueur pourra être manquante)"
+}

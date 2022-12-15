@@ -1,0 +1,13 @@
+{
+  "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+  "item.wolveswitharmor.leather_wolf_armor": "Armure de loup en cuir",
+  "item.wolveswitharmor.golden_wolf_armor": "Armure de loup en or",
+  "item.wolveswitharmor.iron_wolf_armor": "Armure de loup en fer",
+  "item.wolveswitharmor.diamond_wolf_armor": "Armure de loup en diamant",
+  "item.wolveswitharmor.netherite_wolf_armor": "Armure de loup en netherite",
+
+  "itemGroup.wolveswitharmor.group": "Wolves With Armor",
+  
+  "wolveswitharmor.tooltip.when_equipped": "Quand équipée sur un loup:",
+  "wolveswitharmor.tooltip.bonus": " +%s points d'armure"
+}
