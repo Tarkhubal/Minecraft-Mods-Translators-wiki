@@ -1,0 +1,44 @@
+{
+  "config.twitchchat.title": "Puente de chat de Twitch",
+  "config.twitchchat.category.credentials": "Credenciales",
+  "config.twitchchat.credentials.channel": "Canal de Twitch",
+  "config.twitchchat.credentials.username": "Nombre de usuario",
+  "config.twitchchat.credentials.username.tooltip": "Tu nombre de usuario de Twitch",
+  "config.twitchchat.credentials.oauthKey": "Token OAuth",
+  "config.twitchchat.credentials.oauthKey.tooltip": "Tu token OAuth de Twitch",
+  "config.twitchchat.category.cosmetics": "Configuraciones cosméticas",
+  "config.twitchchat.cosmetics.prefix": "Prefijo",
+  "config.twitchchat.cosmetics.prefix.tooltip": "Pon esto al comienzo de tus mensajes para enviarlos a un canal de Twitch",
+  "config.twitchchat.cosmetics.dateFormat": "Formato de marca de tiempo",
+  "config.twitchchat.cosmetics.dateFormat.tooltip": "Personaliza el formato de la marca de tiempo que van a seguir los mensajes",
+  "config.twitchchat.cosmetics.ignorelist": "Lista de ignorados",
+  "config.twitchchat.cosmetics.ignorelist.tooltip": "Los mensajes de usuarios en esta lista no serán mostrados",
+  "config.twitchchat.cosmetics.twitchWatchSuggestions": "Sugerencias para /twitch watch",
+  "config.twitchchat.cosmetics.twitchWatchSuggestions.tooltip": "Autocompletar los nombres de canales de /twitch watch con usuarios en tu servidor",
+  "config.twitchchat.category.broadcast": "Retransmisión",
+  "config.twitchchat.broadcast.toggle": "Retransmitir mensajes de Twitch",
+  "config.twitchchat.broadcast.toggle.tooltip": "Retransmite los mensajes de chat de Twitch al chat del servidor",
+  "config.twitchchat.broadcast.prefix": "Prefijo de los mensajes retransmitidos",
+  "config.twitchchat.broadcast.prefix.tooltip": "Esto se va a añadir al principio de los mensajes que se retransmiten al servidor",
+
+  "text.twitchchat.command.base.noargs1": "¡Bienvenido al mod de puente de chat entre Minecraft y Twitch!",
+  "text.twitchchat.command.base.noargs2": "Para inicializarlo simplemente escribe /twitch enable cuando hayas terminado de configurar los ajustes.",
+
+  "text.twitchchat.command.disable.already_disabled": "¡La integración de Twitch ya está desactivada!",
+  "text.twitchchat.command.disable.disabled": "¡La integración de Twitch se ha desactivado!",
+
+  "text.twitchchat.command.enable.already_enabled": "¡La integración de Twitch ya está activada!",
+  "text.twitchchat.command.enable.set_config": "¡Antes de hacer eso tienes que ajustar tu configuración!",
+  "text.twitchchat.command.enable.select_channel": "No te vas a conectar a un canal porque no has seleccionado ninguno. Puedes seleccionar un canal con el comando /twitch watch [canal]",
+  "text.twitchchat.command.enable.connecting": "Conectando...",
+
+  "text.twitchchat.command.watch.switching": "Cambiando canales a '%s'...",
+  "text.twitchchat.command.watch.connect_on_enable": "El mod se conectará a '%s' según lo actives.",
+
+  "text.twitchchat.command.broadcast.enabled": "Retransmisión activada",
+  "text.twitchchat.command.broadcast.disabled": "Retransmisión desactivada",
+
+  "text.twitchchat.chat.integration_disabled": "La integración de twitchj no está activada, para activarla escribe /twitch enable.",
+  "text.twitchchat.bot.connected": "Conectado al canal '%s'",
+  "text.twitchchat.bot.kicked": "Expulsado del canal actual por: '%s'"
+}

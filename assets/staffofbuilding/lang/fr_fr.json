@@ -1,0 +1,15 @@
+{
+  "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+
+  "itemGroup.staffofbuilding.group": "Bâton du bâtiment",
+
+  "item.staffofbuilding.wooden_builder_staff": "Bâton du bâtiment en bois",
+  "item.staffofbuilding.stone_builder_staff": "Bâton du bâtiment en pierre",
+  "item.staffofbuilding.iron_builder_staff": "Bâton du bâtiment en fer",
+  "item.staffofbuilding.golden_builder_staff": "Bâton du bâtiment en or",
+  "item.staffofbuilding.diamond_builder_staff": "Bâton du bâtiment en diamant",
+  "item.staffofbuilding.netherite_builder_staff": "Bâton du bâtiment en netherite",
+  "item.staffofbuilding.infinite_builder_staff": "Bâton du bâtiment infini",
+
+  "staffofbuilding.placement_range": "Plage de placement : %d blocs"
+}

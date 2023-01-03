@@ -1,4 +1,6 @@
 {
+  "_credit": "Traducted partially by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+
   "_comment": "Tooltips",
   "jei.tooltip.config": "Configurer JEI",
   "jei.tooltip.show.recipes": "Afficher les recettes",
@@ -28,13 +30,18 @@
   "jei.tooltip.error.recipe.transfer.inventory.full": "Inventaire plein",
   "jei.tooltip.error.recipe.transfer.unknown": "Erreur inconnue, consulter les logs",
   "jei.tooltip.error.recipe.transfer.no.server": "JEI doit aussi être installé sur le serveur",
+  "jei.tooltip.error.recipe.transfer.disabled": "La configuration du serveur a désactivé le transfert de recette JEI",
   "jei.tooltip.error.recipe.transfer.too.large.player.inventory": "Cette recette est trop grande pour être fabriquée dans la grille 2x2 du joueur.",
   "jei.tooltip.error.crash": "Erreur d'infobulle, consulter le log",
 
   "_comment": "Error Messages",
   "jei.chat.error.command.too.long": "JEI doit être sur le serveur pour gérer cette commande de discussion, elle est trop longue pour que Minecraft l'envoie.",
   "jei.chat.error.no.cheat.permission.1": "Vous n'avez pas l'autorisation d'utiliser le mode triche de JEI.",
-  "jei.chat.error.no.cheat.permission.2": "L'autorisation est donnée aux joueurs qui peuvent utiliser la commande /give ou qui sont en mode créatif.",
+  "jei.chat.error.no.cheat.permission.disabled": "Sur ce serveur, le mode Cheat de JEI est désactivé pour tous les joueurs.",
+  "jei.chat.error.no.cheat.permission.enabled": "Sur ce serveur, les types de joueurs suivants peuvent utiliser le mode Cheat de JEI :",
+  "jei.chat.error.no.cheat.permission.creative": "les joueurs qui sont en mode créatif",
+  "jei.chat.error.no.cheat.permission.op": "les joueurs qui ont le statut d'opérateur (/op)",
+  "jei.chat.error.no.cheat.permission.give": "les joueurs qui peuvent utiliser/donner",
 
   "_comment": "Key Bindings",
   "key.jei.toggleOverlay": "Afficher/cacher JEI",
@@ -43,8 +50,11 @@
   "key.jei.showUses": "Montrer les utilisations",
   "key.jei.recipeBack": "Montrer la recette précédente",
   "key.jei.toggleCheatMode": "Activer/désactiver le Mode triche",
+  "key.jei.toggleEditMode": "Basculer le mode Masquer/Modifier",
   "key.jei.previousPage": "Afficher la page précédente",
   "key.jei.nextPage": "Afficher la page suivante",
+  "key.jei.previousCategory": "Afficher la catégorie de recette précédente",
+  "key.jei.nextCategory": "Afficher la catégorie de recette suivante",
   "key.jei.bookmark": "Ajouter/supprimer un objet épinglé",
   "key.jei.toggleBookmarkOverlay": "Afficher/cacher les objets épinglés",
 
@@ -111,9 +121,14 @@
   "key.jei.ctrl.mac": "CMD",
 
   "_comment": "Recipe Categories",
-  "gui.jei.category.craftingTable": "Établi",
+  "gui.jei.category.craftingTable": "Fabrication",
+  "gui.jei.category.stoneCutter": "Taille de pierre",
   "gui.jei.category.smelting": "Fourneau",
+  "gui.jei.category.smoking": "Fumage",
+  "gui.jei.category.blasting": "Haut fourneau",
+  "gui.jei.category.campfire": "Cuisson au feu de camp",
   "gui.jei.category.smelting.experience": "%s XP",
+  "gui.jei.category.smelting.time.seconds": "%ss",
   "gui.jei.category.fuel": "Combustible",
   "gui.jei.category.fuel.smeltCount.single": "Fond 1 objet",
   "gui.jei.category.fuel.smeltCount": "Fond %s objets",
@@ -127,5 +142,8 @@
   "_comment": "DEBUG (for debug mode, do not need translation)",
   "description.jei.wooden.door.1": "Les portes en bois vous permettent d'empêcher les monstres d'entrer dans votre bâtiment.\\nTester les phrases.",
   "description.jei.wooden.door.2": "Cliquer sur une porte change son état d'ouvert à fermé et vice versa.",
-  "description.jei.wooden.door.3": "Les portes en bois peuvent être ouvertes/fermées via les circuits de redstone."
+  "description.jei.wooden.door.3": "Les portes en bois peuvent être ouvertes/fermées via les circuits de redstone.",
+  "description.jei.debug.formatting.1": "Test des remplacements de formatage %s.",
+  "description.jei.debug.formatting.2": "Test des remplacements de formatage de %s %s.",
+  "description.jei.debug.formatting.3": "%s imbriqué"
 }

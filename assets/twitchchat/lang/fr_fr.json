@@ -1,0 +1,46 @@
+{
+  "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+
+  "config.twitchchat.title": "Pont de discussion Twitch",
+  "config.twitchchat.category.credentials": "Identifiants",
+  "config.twitchchat.credentials.channel": "Chaîne Twitch",
+  "config.twitchchat.credentials.username": "Nom d'utilisateur",
+  "config.twitchchat.credentials.username.tooltip": "Votre nom d'utilisateur Twitch",
+  "config.twitchchat.credentials.oauthKey": "Token OAuth",
+  "config.twitchchat.credentials.oauthKey.tooltip": "Votre token Twitch OAuth",
+  "config.twitchchat.category.cosmetics": "Cosmétiques",
+  "config.twitchchat.cosmetics.prefix": "Préfix",
+  "config.twitchchat.cosmetics.prefix.tooltip": "Mettez ceci au début de vos messages pour les envoyer à une chaîne Twitch",
+  "config.twitchchat.cosmetics.dateFormat": "Format d'horodatage",
+  "config.twitchchat.cosmetics.dateFormat.tooltip": "Personnalisez le format d'horodatage que les messages vont suivre",
+  "config.twitchchat.cosmetics.ignorelist": "Ignorer la liste",
+  "config.twitchchat.cosmetics.ignorelist.tooltip": "Les messages des utilisateurs de cette liste ne seront pas affichés",
+  "config.twitchchat.cosmetics.twitchWatchSuggestions": "Suggestions pour /twitch watch",
+  "config.twitchchat.cosmetics.twitchWatchSuggestions.tooltip": "Autocomplétion de /twitch watch avec les noms des chaînes avec les noms des utilisateurs de votre serveur",
+  "config.twitchchat.category.broadcast": "Diffusion",
+  "config.twitchchat.broadcast.toggle": "Diffuser des messages Twitch",
+  "config.twitchchat.broadcast.toggle.tooltip": "Envoie des messages de chat Twitch au chat du serveur",
+  "config.twitchchat.broadcast.prefix": "Préfixe de message de diffusion",
+  "config.twitchchat.broadcast.prefix.tooltip": "Cela va être ajouté au début des messages diffusés sur le serveur",
+
+  "text.twitchchat.command.base.noargs1": "Bienvenue dans le mod Minecraft-Twitch Bridge !",
+  "text.twitchchat.command.base.noargs2": "Pour l'activer, faites simplement /twitch enable lorsque vous avez terminé de configurer la configuration.",
+
+  "text.twitchchat.command.disable.already_disabled": "L'intégration de Twitch est déjà désactivée !",
+  "text.twitchchat.command.disable.disabled": "L'intégration de Twitch est maintenant désactivée !",
+
+  "text.twitchchat.command.enable.already_enabled": "L'intégration de Twitch est déjà activée !",
+  "text.twitchchat.command.enable.set_config": "Avant de faire cela, vous devez définir votre config!",
+  "text.twitchchat.command.enable.select_channel": "Vous ne vous connecterez pas à un canal car vous n'en avez sélectionné aucun. Vous pouvez sélectionner une chaîne avec /twitch watch [channel]",
+  "text.twitchchat.command.enable.connecting": "Connexion...",
+
+  "text.twitchchat.command.watch.switching": "Passage des chaînes à '%s'...",
+  "text.twitchchat.command.watch.connect_on_enable": "Le mod se connectera à '%s' dès que vous l'activerez.",
+
+  "text.twitchchat.command.broadcast.enabled": "Diffusion activée",
+  "text.twitchchat.command.broadcast.disabled": "Diffusion désactivée",
+
+  "text.twitchchat.chat.integration_disabled": "L'intégration de Twitch n'est pas activée, pour l'activer exécutés /twitch enable.",
+  "text.twitchchat.bot.connected": "Connecté à la chaîne '%s'",
+  "text.twitchchat.bot.kicked": "Expulsé de la chaîne actuelle car : '%s'"
+}

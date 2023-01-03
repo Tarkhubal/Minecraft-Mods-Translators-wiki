@@ -1,0 +1,44 @@
+{
+  "config.twitchchat.title": "Twitch Chat Bridge",
+  "config.twitchchat.category.credentials": "Credentials",
+  "config.twitchchat.credentials.channel": "Twitch channel",
+  "config.twitchchat.credentials.username": "Username",
+  "config.twitchchat.credentials.username.tooltip": "Your Twitch username",
+  "config.twitchchat.credentials.oauthKey": "OAuth Token",
+  "config.twitchchat.credentials.oauthKey.tooltip": "Your Twitch OAuth token",
+  "config.twitchchat.category.cosmetics": "Cosmetics",
+  "config.twitchchat.cosmetics.prefix": "Prefix",
+  "config.twitchchat.cosmetics.prefix.tooltip": "Put this at the start of your messages to send them to a Twitch channel",
+  "config.twitchchat.cosmetics.dateFormat": "Timestamp format",
+  "config.twitchchat.cosmetics.dateFormat.tooltip": "Customize the timestamp format messages are going to follow",
+  "config.twitchchat.cosmetics.ignorelist": "Ignore list",
+  "config.twitchchat.cosmetics.ignorelist.tooltip": "Messages from users in this list won't be displayed",
+  "config.twitchchat.cosmetics.twitchWatchSuggestions": "Suggestions for /twitch watch",
+  "config.twitchchat.cosmetics.twitchWatchSuggestions.tooltip": "Autocomplete /twitch watch channel names with names from users in your server",
+  "config.twitchchat.category.broadcast": "Broadcasting",
+  "config.twitchchat.broadcast.toggle": "Broadcast Twitch messages",
+  "config.twitchchat.broadcast.toggle.tooltip": "Sends Twitch chat messages to the server chat",
+  "config.twitchchat.broadcast.prefix": "Broadcast message prefix",
+  "config.twitchchat.broadcast.prefix.tooltip": "This is going to be added to the beginning of messages broadcasted to the server",
+
+  "text.twitchchat.command.base.noargs1": "Welcome to the Minecraft-Twitch Bridge mod!",
+  "text.twitchchat.command.base.noargs2": "To enable it just do /twitch enable when you're done setting up the config.",
+
+  "text.twitchchat.command.disable.already_disabled": "Twitch integration is already disabled!",
+  "text.twitchchat.command.disable.disabled": "Twitch integration is now disabled!",
+
+  "text.twitchchat.command.enable.already_enabled": "Twitch integration is already enabled!",
+  "text.twitchchat.command.enable.set_config": "Before doing that you have to set your config!",
+  "text.twitchchat.command.enable.select_channel": "You won't connect to a channel because you haven't selected any. You can select a channel with /twitch watch [channel]",
+  "text.twitchchat.command.enable.connecting": "Connecting...",
+
+  "text.twitchchat.command.watch.switching": "Switching channels to '%s'...",
+  "text.twitchchat.command.watch.connect_on_enable": "The mod will connect to '%s' as soon as you enable it.",
+
+  "text.twitchchat.command.broadcast.enabled": "Broadcasting enabled",
+  "text.twitchchat.command.broadcast.disabled": "Broadcasting disabled",
+
+  "text.twitchchat.chat.integration_disabled": "Twitch integration is not enabled, to enable it do /twitch enable.",
+  "text.twitchchat.bot.connected": "Connected to channel '%s'",
+  "text.twitchchat.bot.kicked": "Kicked from the current channel because: '%s'"
+}
