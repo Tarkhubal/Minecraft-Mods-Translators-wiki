@@ -1,0 +1,20 @@
+# Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX
+
+# CREATIVE TAB
+#itemGroup.cucumber=Cucumber
+
+# BLOCKS
+
+# ITEMS
+
+# GUIDE
+guide.cu.page_indicator=Page %s / %s
+
+# TOOLTIPS
+tooltip.cu.exit=Sortir
+tooltip.cu.back=Retour
+
+tooltip.cu.author=Auteur : %s
+tooltip.cu.uses_left=Utilise la gauche : %s
+
+tooltip.cu.hold_shift_for_info=§7Maintenez §e§oMAJ §r§7pour info.

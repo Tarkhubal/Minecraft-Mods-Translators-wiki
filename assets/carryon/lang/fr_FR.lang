@@ -1,0 +1,16 @@
+# Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX
+
+carryon.category.settings=Paramètres
+carryon.category.blacklist=Liste Noire
+carryon.category.modeloverrides=Remplacements de modèle (avancé)
+carryon.category.custompickupconditions=Conditions de ramassage personnalisées (avancées)
+carryon.category.whitelist=Liste Blanche
+
+carryon.general.modeloverrides.modeloverrides=Remplacements de modèle
+carryon.general.blacklist.forbiddenentities=Entités que le joueur ne peut pas soulever
+carryon.general.blacklist.forbiddentiles=Blocs que le joueur ne peut pas soulever
+carryon.category.custompickupconditions.custompickupconditionsblocks=Conditions de ramassage de blocs personnalisées
+carryon.category.custompickupconditions.custompickupconditionsentities=Conditions de ramassage d'entités personnalisées
+
+key.carry.desc=Transporter
+key.carry.category=Soulever

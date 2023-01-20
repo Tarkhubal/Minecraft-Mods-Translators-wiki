@@ -1,0 +1,10 @@
+# Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX
+
+gui.llibrary.update=Mise à jour
+gui.llibrary.update.title=Mises à jour des mods
+gui.llibrary.currentVersion=Version actuelle
+gui.llibrary.latestVersion=Dernière version
+gui.llibrary.updated.1=Tout est à jour !
+gui.llibrary.updated.2=LLibrary n'a trouvé aucun mod obsolète.
+
+snackbar.llibrary.updates_found=LLibrary a trouvé des mods obsolètes !

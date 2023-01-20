@@ -1,0 +1,44 @@
+# Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX
+
+tile.waystones:waystone.name=Waystone
+
+item.waystones:warp_scroll.name=Parchemin de téléportation
+item.waystones:warp_scroll_bound.name=Parchemin de téléportation (lié)
+item.waystones:return_scroll.name=Parchemin de retour
+item.waystones:warp_stone.name=Waystone
+item.waystones:bound_scroll.name=Rouleau de parchemin
+
+itemGroup.waystones=Waystones
+
+waystones:noDimensionWarp=Vous ne pouvez pas vous téléporter entre les mondes.
+waystones:waystoneBroken=La waystone liée a été déplacée ou détruite.
+waystones:returnImpossible=Vous n'avez pas encore activé de pierres de téléportation.
+waystones:scrollNotBound=Ce parchemin n'est lié à aucune waystone.
+waystones:stoneNotCharged=La waystone n'est pas encore complètement chargée.
+waystones:activatedWaystone=Waystone activée : %s
+waystones:nameOccupied=Le nom %s est déjà utilisé.
+waystones:notTheOwner=Les pierres de téléportation ne peuvent être renommés que par celui qui les a placées.
+waystones:creativeRequired=Vous devez être en mode créatif pour modifier une waystone globale.
+waystones:scrollBound=Téléportation lié : %s
+
+gui.waystones:current_location=Localisation actuelle :
+gui.waystones:warpStone.selectDestination=Sélectionnez votre destination :
+gui.waystones:warpStone.nextPage=Suivant
+gui.waystones:warpStone.previousPage=Précédent
+gui.waystones:confirmReturn=Voulez-vous vraiment revenir à cette waystone ?
+gui.waystones:confirmReturn.boundTo=Lié à : %s
+gui.waystones:confirmReturn.noWaystoneActive=Aucune waystone active.
+gui.waystones:editWaystone.enterName=Saisissez le nom de la waystone :
+gui.waystones:editWaystone.isGlobal=est globale
+
+tooltip.waystones:cooldownLeft=Temps de recharge : %d secondes
+tooltip.waystones:boundTo=Lié à : %s
+tooltip.waystones:none=Aucun(e)
+tooltip.waystones:returnToWaystone=Retour à la waystone
+tooltip.waystones:openWaystoneMenu=Ouvrir le menu des Waystones
+tooltip.waystones:levelRequirement=Niveau requis : %d
+
+stat.waystones:waystonesActivated=Pierres de téléportation activées
+
+waystones.general.globalinterdimension=Téléportation Interdim. (waystone globale)
+waystones.worldgen.customnames=Noms personnalisés

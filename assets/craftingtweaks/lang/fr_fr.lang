@@ -1,0 +1,25 @@
+# Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX
+
+key.categories.craftingtweaks=Crafting Tweaks
+key.craftingtweaks.rotate=Tourner la grille
+key.craftingtweaks.rotat_counter_clockwise=Tourner la grille (Inverse)
+key.craftingtweaks.clear=Vider la grille
+key.craftingtweaks.force_clear=Forcer le vidage de la grille
+key.craftingtweaks.balance=Équilibrer la grille
+key.craftingtweaks.spread=Disperser la grille
+key.craftingtweaks.toggleButtons=(Dés)active les boutons
+key.craftingtweaks.compressOne=Compresser l'item
+key.craftingtweaks.compressStack=Compresser le stack
+key.craftingtweaks.compressAll=Tout compresser
+key.craftingtweaks.decompressOne=Décompresser l'item
+key.craftingtweaks.decompressStack=Décompresser le stack
+key.craftingtweaks.decompressAll=Tout décompresser
+key.craftingtweaks.refill_last=Craft récent
+key.craftingtweaks.refill_last_stack=Craft récent (Stack)
+
+tooltip.craftingtweaks.rotate=Tourner la grille
+tooltip.craftingtweaks.balance=Équilibrer la grille
+tooltip.craftingtweaks.spread=Disperser la grille
+tooltip.craftingtweaks.clear=Vider la grille
+tooltip.craftingtweaks.forceClear=Force le vidage de la grille
+tooltip.craftingtweaks.forceClearInfo=Lâcher les items si nécessaire

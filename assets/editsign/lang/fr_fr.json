@@ -1,0 +1,12 @@
+{
+  "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+  "text.autoconfig.editsign.title": "Configuration d'EditSign",
+  "text.autoconfig.editsign.error.invalidItemResourceLocation": "Item fourni non valide, doit avoir le format 'mod_id:item_id'",
+  "text.autoconfig.editsign.category.default": "Général",
+  "text.autoconfig.editsign.option.requiredItemId": "ID d'item requis",
+  "text.autoconfig.editsign.option.requiredItemId.@Tooltip[0]": "ID de l'item que les joueurs",
+  "text.autoconfig.editsign.option.requiredItemId.@Tooltip[1]": "doivent tenir pour modifier un",
+  "text.autoconfig.editsign.option.requiredItemId.@Tooltip[2]": "panneau. Si aucune valeur n'est",
+  "text.autoconfig.editsign.option.requiredItemId.@Tooltip[3]": "définie, tout élément conviendra.",
+  "editsign.action.not_editable": "Ce panneau n'est pas éditable"
+}

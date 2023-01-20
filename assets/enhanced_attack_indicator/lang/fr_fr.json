@@ -1,0 +1,14 @@
+{
+  "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+  "enhanced_attack_indicator.tinyconfig.title": "Indicateur d'attaque amélioré",
+  "enhanced_attack_indicator.tinyconfig.showBlockBreaking": "Afficher la progression de la rupture de bloc",
+  "enhanced_attack_indicator.tinyconfig.showRangeWeaponDraw": "Afficher le tirage d'armes à distance",
+  "enhanced_attack_indicator.tinyconfig.showItemCooldowns": "Afficher les temps de recharge des objets",
+  "enhanced_attack_indicator.tinyconfig.disablePickaxesAndShovels": "Désactiver le temps de recharge des armes des pioches et des pelles",
+  "enhanced_attack_indicator.tinyconfig.disableAxes": "Désactive le temps de recharge des armes des haches",
+  "enhanced_attack_indicator.tinyconfig.weaponCoolDownImportance": "Priorité du temps de recharge des armes",
+  "enhanced_attack_indicator.tinyconfig.enum.WeaponCoolDownImportance.FIRST": "Premier",
+  "enhanced_attack_indicator.tinyconfig.enum.WeaponCoolDownImportance.MIDDLE": "Milieu",
+  "enhanced_attack_indicator.tinyconfig.enum.WeaponCoolDownImportance.LAST": "Dernier"
+
+}

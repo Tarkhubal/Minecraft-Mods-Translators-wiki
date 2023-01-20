@@ -1,0 +1,38 @@
+{
+    "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+
+    "mambience.config.title": "Configuration de MAmbience CÔTÉ CLIENT",
+    
+    "mambience.config.enable": "Activé",
+    "mambience.config.volume": "Multiplicateur de volume",
+    
+    "mambience.config.sizex": "Taille X",
+    "mambience.config.sizex.tooltip": "Zone centrée autour du joueur",
+    "mambience.config.sizey": "Taille Y",
+    "mambience.config.sizey.tooltip": "Zone centrée autour du joueur",
+    "mambience.config.sizez": "Taille Z",
+    "mambience.config.sizez.tooltip": "Zone centrée autour du joueur",
+    
+    "mambience.config.general": "Général",
+    "mambience.config.general.note": "Cette configuration s'applique uniquement côté client. Lorsque MAmbience est présent sur le serveur, la configuration des serveurs sera utilisée à la place !",
+    "mambience.config.general.debug": "Journalisation du débogage",
+    "mambience.config.general.debug.tooltip": "Uniquement utile pour observer les effets des modifications apportées aux événements/effets",
+    
+    "mambience.config.ambient": "Sons ambiants",
+    "mambience.config.ambient.note": "Ce système joue sur les sons ambiants basés sur les blocs et les biomes entourant le joueur. Pour la définition d'événement, voir config/mambience/events.json",
+    "mambience.config.ambient.stop": "Arrêter les sons lorsqu'ils sont restreints",
+    "mambience.config.ambient.stop.tooltip": "Désactivé par défaut en raison de la nature abrupte",
+    
+    "mambience.config.effects": "Effets visuels",
+    "mambience.config.effects.note": "Ce système utilise des particules pour créer des effets visuels basés sur des blocs. (par exemple Fireflies, Lavajets et plus). Pour la définition des effets, voir config/mambience/effects.json",
+    "mambience.config.effects.ticks": "Nombre de ticks aléatoires",
+    "mambience.config.effects.ticks.tooltip": "Nombre de blocs vérifiés au hasard par tick",
+    
+    "mambience.config.footsteps": "Empreintes avancées",
+    "mambience.config.footsteps.note": "Ce système joue sur des empreintes plus avancés basés sur l'action du joueur. (par exemple, des sons de saut et d'atterrissage). Veuillez le désactiver si vous utilisez Presence Footsteps. Pour les définitions sonores, voir config/mambience/footsteps.json",
+    
+    "mambience.config.scanner": "Scanner",
+    "mambience.config.scanner.note": "Contrôlez la taille et l'intervalle des blocs et des biomes cochés pour déterminer les effets dans les autres systèmes. Réduire la taille peut améliorer les performances mais va avoir une moins bonne précision.",
+    "mambience.config.scanner.interval": "Intervalle en ticks",
+    "mambience.config.scanner.interval.tooltip": "Contrôle le temps entre les scans complets environnants"
+}

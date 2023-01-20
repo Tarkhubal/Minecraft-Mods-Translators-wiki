@@ -1,0 +1,41 @@
+{   
+    "itemGroup.adapaxels.adapaxels_group": "Paxels",
+
+	"item.adapaxels.wooden_paxel": "Drewniany Paxel",
+	"item.adapaxels.golden_paxel": "Złoty Paxel",
+	"item.adapaxels.stone_paxel": "Kamienny Paxel",
+	"item.adapaxels.iron_paxel": "Żelazny Paxel",
+	"item.adapaxels.diamond_paxel": "Diamentowy Paxel",
+	"item.adapaxels.netherite_paxel": "Netherytowy Paxel",
+	
+	"item.adapaxels.vibranium_paxel": "Paxel z Vibranium",
+	"item.adapaxels.adamantium_paxel": "Paxel z Adamantium",
+	"item.adapaxels.nether_paxel": "Netherowy Paxel",
+	
+	"item.adapaxels.copper_paxel": "Miedziany Paxel",
+	"item.adapaxels.tin_paxel": "Cynowy Paxel",
+	"item.adapaxels.silver_paxel": "Paxel ze srebra",
+	"item.adapaxels.lead_paxel": "Ołowiany paxel",
+	"item.adapaxels.bronze_paxel": "Paxel z brązu",
+	"item.adapaxels.steel_paxel": "Stalowy Paxel",
+	"item.adapaxels.electrum_paxel": "Paxel z elektrum",
+	"item.adapaxels.rose_gold_paxel": "Paxel z różowego złota",
+	"item.adapaxels.sterling_silver_paxel": "Paxel ze srebra sterling",
+	"item.adapaxels.fools_gold_paxel": "Pirytowy Paxel",
+	"item.adapaxels.metite_paxel": "Metytowy Paxel",
+	"item.adapaxels.asterite_paxel": "Asterytowy Paxel",
+	"item.adapaxels.stellum_paxel": "Stellumowy Paxel",
+	"item.adapaxels.galaxium_paxel": "Galaxiumowy Paxel",
+	"item.adapaxels.univite_paxel": "Univitowy Paxel",
+	"item.adapaxels.lunum_paxel": "Lunumowy Paxel",
+	"item.adapaxels.meteoric_steel_paxel": "Paxel z meteorytowej stali",
+	
+	"item.adapaxels.tech_reborn_bronze_paxel": "Paxel z brązu",
+	"item.adapaxels.ruby_paxel": "Rubinowy Paxel",
+	"item.adapaxels.sapphire_paxel": "Szafirowy Paxel",
+	"item.adapaxels.peridot_paxel": "Oliwinowy Paxel",
+	
+	"item.adapaxels.enderite_paxel": "Enderytowy Paxel",
+
+	"item.gildednetherite.gilded_paxel": "Pozłacany netherytowy Paxel"
+}
