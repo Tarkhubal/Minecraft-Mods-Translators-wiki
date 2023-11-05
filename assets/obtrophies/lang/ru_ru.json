@@ -1,0 +1,15 @@
+{
+    "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+    
+    "block.obtrophies.trophy": "Трофей",
+    "block.obtrophies.trophy.entity": "Трофей %s",
+    "command.obtrophies.count": "Количество трофеев: %s",
+    "command.obtrophies.empty_list": "Список трофеев не заполнен!",
+    "command.obtrophies.place": "Размещено %s трофеев",
+    "item.obtrophies.trophy.modid": "От: %s",
+    "itemGroup.obtrophies": "Трофеи",
+    "gui.obtrophies.trophy_jei": "Награды за трофеи",
+    "gui.obtrophies.jei.drop_chance": "Шанс: %s%%",
+    "gui.obtrophies.jei.fake_player_drops": "(количество фейковых игроков)",
+    "gui.obtrophies.jei.player_drops": "Награды при убийстве игрока"
+}

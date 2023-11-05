@@ -1,0 +1,15 @@
+{
+    "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+    
+    "block.obtrophies.trophy": "Trophée",
+    "block.obtrophies.trophy.entity": "Trophée %s",
+    "command.obtrophies.count": "Nombre de trophées : %s",
+    "command.obtrophies.empty_list": "La liste des trophées est vide !",
+    "command.obtrophies.place": "%s trophées placés",
+    "item.obtrophies.trophy.modid": "De : %s",
+    "itemGroup.obtrophies": "Trophées",
+    "gui.obtrophies.trophy_jei": "Récompenses des trophées",
+    "gui.obtrophies.jei.drop_chance": "Chance : %s%%",
+    "gui.obtrophies.jei.fake_player_drops": "(nombre de faux joueurs)",
+    "gui.obtrophies.jei.player_drops": "Récompenses en cas de mort d'un joueur uniquement"
+}

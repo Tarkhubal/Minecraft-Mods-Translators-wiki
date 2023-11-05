@@ -1,0 +1,143 @@
+#########
+# Items #
+#########
+
+# Vanilla
+item.headcrumbs.pigman.name=Testa di zombi suino
+item.headcrumbs.blaze.name=Testa di blaze
+item.headcrumbs.enderman.name=Testa di enderman
+item.headcrumbs.player.name=Testa di 
+item.headcrumbs.spider.name=Testa di ragno
+item.headcrumbs.caveSpider.name=Testa di ragno delle caverne
+item.headcrumbs.pig.name=Testa di maiale
+item.headcrumbs.cow.name=Testa di mucca
+item.headcrumbs.mooshroom.name=Testa di muucelio
+item.headcrumbs.sheep.name=Testa di pecora
+item.headcrumbs.wolf.name=Testa di lupo
+item.headcrumbs.villager.name=Testa di villico
+item.headcrumbs.chicken.name=Testa di pollo
+item.headcrumbs.witch.name=Testa di strega
+item.headcrumbs.zombieVillager.name=Testa di villico zombi
+item.headcrumbs.ironGolem.name=Testa di golem di ferro
+item.headcrumbs.squid.name=Testa di calamaro
+item.headcrumbs.wither.name=Teschio di Wither
+item.headcrumbs.ghast.name=Testa di Ghast
+item.headcrumbs.enderDragon.name=Testa di Enderdrago
+item.headcrumbs.ocelot.name=Testa di gattopardo
+item.headcrumbs.ocelotBlack.name=Testa di gatto nero
+item.headcrumbs.ocelotRed.name=Testa di gatto rosso
+item.headcrumbs.ocelotSiamese.name=Testa di gatto siamese
+item.headcrumbs.bat.name=Testa di pipistrello
+item.headcrumbs.slime.name=Testa di gelatina
+item.headcrumbs.magmaCube.name=Testa di cubo di magma
+item.headcrumbs.horseBlack.name=Testa di cavallo (nero)
+item.headcrumbs.horseBrown.name=Testa di cavallo (marrone)
+item.headcrumbs.horseChestnut.name=Testa di cavallo (nocciola)
+item.headcrumbs.horseCreamy.name=Testa di cavallo (crema)
+item.headcrumbs.horseDarkBrown.name=Testa di cavallo (marrone scuro)
+item.headcrumbs.horseGrey.name=Testa di cavallo (grigio)
+item.headcrumbs.horseWhite.name=Testa di cavallo (bianco)
+item.headcrumbs.donkey.name=Testa di asino
+item.headcrumbs.mule.name=Testa di mulo
+item.headcrumbs.horseUndead.name=Testa di cavallo zombi
+item.headcrumbs.horseSkeleton.name=Testa di cavallo scheletro
+item.headcrumbs.snowMan.name=Testa di golem di neve
+item.headcrumbs.silverfish.name=Testa di silverfish
+item.headcrumbs.endermite.name=Testa di endermite
+item.headcrumbs.guardian.name=Testa di guardiano
+item.headcrumbs.guardianElder.name=Testa di Guardiano Antico
+item.headcrumbs.rabbitBlack.name=Testa di coniglio (Nero)
+item.headcrumbs.rabbitBrown.name=Testa di coniglio (Marrone)
+item.headcrumbs.rabbitCaerbannog.name=Testa di coniglio (Caerbannog)
+item.headcrumbs.rabbitGold.name=Testa di coniglio (Oro)
+item.headcrumbs.rabbitSalt.name=Testa di coniglio (Salt)
+item.headcrumbs.rabbitToast.name=Testa di coniglio (Toast)
+item.headcrumbs.rabbitSplotched.name=Testa di coniglio (White Splotched)
+item.headcrumbs.rabbitWhite.name=Testa di coniglio (White)
+item.headcrumbs.polarBear.name=Testa di orso polare
+
+# Twilight Forest
+item.headcrumbs.mistWolf.name=Testa di Mist Wolf
+item.headcrumbs.miniGhast.name=Testa di Carminite Ghastling
+item.headcrumbs.guardGhast.name=Testa di Carminite Ghastguard
+item.headcrumbs.kingSpider.name=Testa di King Spider
+item.headcrumbs.kobold.name=Testa di Kobold
+item.headcrumbs.slimeBeetle.name=Testa di Slime Beetle
+item.headcrumbs.fireBeetle.name=Testa di Fire Beetle
+item.headcrumbs.pinchBeetle.name=Testa di Pinch Beetle
+item.headcrumbs.towerGolem.name=Testa di Carminite Golem
+item.headcrumbs.bunnyDutch.name=Testa di Dutch Bunny
+item.headcrumbs.bunnyBrown.name=Testa di Brown Bunny
+item.headcrumbs.bunnyWhite.name=Testa di White Bunny
+item.headcrumbs.penguin.name=Testa di Penguin
+item.headcrumbs.bighorn.name=Testa di Bighorn Sheep
+item.headcrumbs.wildDeer.name=Testa di Wild Deer
+item.headcrumbs.wildBoar.name=Testa di Wild Boar
+item.headcrumbs.redcap.name=Testa di Redcap
+item.headcrumbs.druid.name=Testa di Skeleton Druid
+item.headcrumbs.hedgeSpider.name=Testa di Hedge Spider
+item.headcrumbs.hostileWolf.name=Testa di lupo ostile
+item.headcrumbs.squirrel.name=Testa di scoiattolo della forestra
+item.headcrumbs.swarmSpider.name=Testa di Swarm Spider
+item.headcrumbs.towerBroodling.name=Testa di Carminite Broodling
+item.headcrumbs.winterWolf.name=Testa di Winter Wolf
+item.headcrumbs.mazeSlime.name=Testa di Maze Slime
+item.headcrumbs.towerwoodBorer.name=Testa di Towerwood Borer
+
+# Thermal Foundation
+item.headcrumbs.blizz.name=Testa di Folata
+
+# Natura
+item.headcrumbs.imp.name=Testa di imp
+item.headcrumbs.nitroCreeper.name=Testa di Nitro Creeper
+item.headcrumbs.heatscarSpider.name=Testa di ragno fiammeggiante
+
+# Thaumcraft
+item.headcrumbs.angryZombie.name=Testa di zombi arrabbiato
+item.headcrumbs.fireBat.name=Testa di pirostrello
+item.headcrumbs.thaumicSlime.name=Testa di gelatina taumico
+item.headcrumbs.taintedChicken.name=Testa di pollo corrotto
+item.headcrumbs.taintedCow.name=Testa di mucca corrotta
+item.headcrumbs.taintedPig.name=Testa di maiale corrotto
+item.headcrumbs.taintedCreeper.name=Testa di Creeper corrotto
+item.headcrumbs.taintedVillager.name=Testa di villico corrotto
+item.headcrumbs.taintedSheep.name=Testa di pecora corrotta
+item.headcrumbs.pech.name=Testa di nano
+item.headcrumbs.eldritchGuardian.name=Testa di guardiano innaturale
+
+# Lycanites
+item.headcrumbs.pinky.name=Testa di Pinky
+item.headcrumbs.behemoth.name=Testa di Behemoth
+item.headcrumbs.belph.name=Testa di Belph
+
+# Ender Zoo
+item.headcrumbs.concussionCreeper.name=Testa di Concussion Creeper
+item.headcrumbs.enderminy.name=Testa di Enderminy
+item.headcrumbs.fallenKnight.name=Testa di Fallen Knight
+item.headcrumbs.witherWitch.name=Testa di Wither Witch
+item.headcrumbs.witherCat.name=Testa di Wither Cat
+item.headcrumbs.direWolf.name=Testa di Dire Wolf
+
+# Primitive Mobs
+item.headcrumbs.rocketCreeper.name=Testa di creeper razzo
+item.headcrumbs.festiveCreeper.name=Testa di creeper festivo
+item.headcrumbs.supportCreeper.name=Testa di creeper di supporto
+item.headcrumbs.lostMiner.name=Testa di minatore disperso
+item.headcrumbs.sheepman.name=Testa di uomo-pecora
+item.headcrumbs.summoner.name=Testa di Evocatore
+item.headcrumbs.blazingJuggernaut.name=Testa di Juggernaut
+item.headcrumbs.lilyLurker.name=Testa di pesce giglio
+item.headcrumbs.motherSpider.name=Testa di ragno madre
+item.headcrumbs.babySpider.name=Testa di ragnetto
+item.headcrumbs.skeletonWarrior.name=Testa di guerriero scheletro
+item.headcrumbs.brainSlime.name=Testa di slime succhia-cervelli
+
+##########
+# Entity #
+##########
+entity.Celebrity.name=Celebrità
+
+################
+# Creative Tab #
+################
+itemGroup.headcrumbs=Headcrumbs

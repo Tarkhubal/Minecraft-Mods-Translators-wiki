@@ -1,0 +1,137 @@
+item.blockSelector.name=Seletor de Bloco
+item.blockSelectorFloating.name=Seletor de Bloco Flutuante
+item.inventoryGenerationTag.name=Gerador de Etiqueta de Inventário
+item.inventoryGenerationSingleTag.name=Gerador de Etiqueta de Item Único
+item.inventoryGenerationComponentTag.name=Gerador de Etiqueta de Item Componente
+item.artifactGenerationTag.name=Gerador de Etiqueta de Artefato
+item.bookGenerationTag.name=Gerador de Etiqueta de Livro
+
+tile.negativeSpace.name=Espaço Genérico
+tile.negativeSpace.meta.0.name=Espaço (0 ~ Espaço Negativo)
+tile.negativeSpace.meta.1.name=Espaço (1 ~ Ar Natural)
+tile.negativeSpace.meta.2.name=Espaço (2)
+tile.negativeSpace.meta.3.name=Espaço (3)
+tile.negativeSpace.meta.4.name=Espaço (4)
+tile.negativeSpace.meta.5.name=Espaço (5)
+tile.negativeSpace.meta.6.name=Espaço (6)
+tile.negativeSpace.meta.7.name=Espaço (7)
+tile.negativeSpace.meta.8.name=Espaço (8)
+tile.negativeSpace.meta.9.name=Espaço (9)
+tile.negativeSpace.meta.10.name=Espaço (10)
+tile.negativeSpace.meta.11.name=Espaço (11)
+tile.negativeSpace.meta.12.name=Espaço (12)
+tile.negativeSpace.meta.13.name=Espaço (13)
+tile.negativeSpace.meta.14.name=Espaço (14)
+tile.negativeSpace.meta.15.name=Espaço (15)
+tile.naturalFloor.name=Sólido Genérico
+tile.naturalFloor.meta.0.name=Sólido (0 ~ Piso Natural)
+tile.naturalFloor.meta.1.name=Sólido (1 ~ Barreira)
+tile.naturalFloor.meta.2.name=Sólido (2)
+tile.naturalFloor.meta.3.name=Sólido (3)
+tile.naturalFloor.meta.4.name=Sólido (4)
+tile.naturalFloor.meta.5.name=Sólido (5)
+tile.naturalFloor.meta.6.name=Sólido (6)
+tile.naturalFloor.meta.7.name=Sólido (7)
+tile.naturalFloor.meta.8.name=Sólido (8)
+tile.naturalFloor.meta.9.name=Sólido (9)
+tile.naturalFloor.meta.10.name=Sólido (10)
+tile.naturalFloor.meta.11.name=Sólido (11)
+tile.naturalFloor.meta.12.name=Sólido (12)
+tile.naturalFloor.meta.13.name=Sólido (13)
+tile.naturalFloor.meta.14.name=Sólido (14)
+tile.naturalFloor.meta.15.name=Sólido (15)
+tile.structureGenerator.name=Gerador de Estrutura
+tile.mazeGenerator.name=Gerador de Labirinto
+tile.spawnCommand.name=Invocar Bloco de Comando
+
+itemGroup.structureTools=Ferramentas de Estrutura
+itemGroup.inventoryGenerators=Geradores de Inventário
+
+commands.rc.noEntityInfo=A entidade não contém estrutura de informação! Isto é um erro!
+
+commands.structure.notGeneric=A estrutura '%s' não é genérica!
+commands.structure.notRegistered=Nenhuma estrutura encontrada com o nome '%s'!
+
+commands.strucExport.failure=Falha ao exportar a estrutura para o arquivo '%s'
+commands.strucExport.success=Estrutura exportada para o arquivo '%s'
+
+commands.strucGen.noStructure=Nenhuma estrutura registrada com o nome de '%s'
+
+commands.strucImport.noStructure=Nenhuma estrutura registrada com o nome de '%s'
+
+commands.selectModify.noSelection=O jogador não possui uma seleção completa
+commands.selectModify.invalidMetadata=Metadados devem ser inseridos como '0,1,5', mas foi '%s'
+
+commands.strucReload.success=Recarregada todas as estruturas e geradores de inventário (%s)
+
+commands.selectCopy.success=Copiado %s, %s, %s para %s, %s, %s para área de transferência
+
+commands.strucPaste.noClipboard=Você tem que copiar uma área primeiro!
+
+commands.rcpreview.invalid=Tipo de visualização inválido
+commands.rcpreview.success=Tipo de visualização definido para '%s'
+
+commands.rc.noOperation=Nenhuma operação atualmente na fila
+commands.rc.queuedOp=A operação agora está sendo visualizada. Digite /#confirm ou /#cancel.
+
+commands.strucImportSchematic.missing=O arquivo '%s' não foi encontrado em %s
+commands.strucImportSchematic.format=O arquivo '%s' tem um formato não suportado (%s)
+
+commands.strucExportSchematic.success=Esquema exportado para '%s'
+
+commands.biomedict.get=Tipos de Bioma para %s: %s
+commands.biomedict.list=Biomas do Tipo %s: %s
+
+commands.dimensiondict.get=Tipo de Dimensões para %d: %s
+commands.dimensiondict.list=Dimensões do Tipo %s: %s
+
+inventoryGen.vanilla=Gerador Vanila
+inventoryGen.custom=Gerador Personalizado
+inventoryGen.create=Criar Novo Gerador
+inventoryGen.none=Sem Gerador
+inventoryGen.mod=Gerador Mod
+
+reccomplex.gui.inventorygen.save=Salvar
+reccomplex.gui.inventorygen.weight=Peso
+reccomplex.gui.inventorygen.minMax=Min.: %s, Máx.: %s
+reccomplex.gui.inventorygen.minMaxItems=Itens Min.: %s, Itens Máx.: %s
+reccomplex.gui.inventorygen.weightNumber=Peso: %s
+inventorygen.save.success=Gerador de Inventário exportado para '%s'
+inventorygen.save.failure=Falha ao exportar gerador de inventário para '%s'
+
+reccomplex.gui.true=Verdadeiro
+reccomplex.gui.false=Falso
+
+structures.category.frequent=Frequente
+structures.category.frequent.tooltip=Pequenas estruturas ou cenário <br>Estruturas aleatórias a cada 10 ´chunks´
+structures.category.decoration=Comum
+structures.category.decoration.tooltip=Estruturas comuns <br>Estruturas aleatórias cada 30 ´chunks´
+structures.category.rare=Raro
+structures.category.rare.tooltip=Atrações especiais para contemplar<br>Estruturas aleatórias a cada 1250 ´chunks´
+structures.category.ultrarare=Ultra Rara
+structures.category.ultrarare.tooltip=Vista uma vez na vida<br>Estrutura aleatória a cada 5000 ´chunks´
+structures.category.adventure=Aventura
+structures.category.adventure.tooltip=Estruturas centrando-se em combate e despojos<br>Estrutura aleatória a cada 250 ´chunks´
+
+structures.genY.bedrock=Rocha Matriz
+structures.genY.bedrock.tooltip=Fundo do mundo: y0
+structures.genY.surface=Superfície
+structures.genY.surface.tooltip=O mais alto bloco sólido ou líquido
+structures.genY.sealevel=Nível do Mar
+structures.genY.sealevel.tooltip=A altura do oceano: y63
+structures.genY.underwater=Oceano Oceano
+structures.genY.underwater.tooltip=O mais alto bloco sólido
+structures.genY.top=Topo (Céu)
+structures.genY.top.tooltip=Topo do mundo: y127
+structures.genY.lowestedge=Borda mais baixa (Fundo do Oceano)
+structures.genY.lowestedge.tooltip=Como o oceano, mas enterrado tanto quanto necessário
+
+reccomplex.configgui.title=Config. Gerador de Esturura
+reccomplex.configgui.ctgy.general=Geral
+reccomplex.configgui.ctgy.general.tooltip=Configurações Gerais
+reccomplex.configgui.ctgy.visual=Visual
+reccomplex.configgui.ctgy.visual.tooltip=Configurações do Visual
+reccomplex.configgui.ctgy.balancing=Balanceamento
+reccomplex.configgui.ctgy.balancing.tooltip=As configurações que afetam o equilíbrio do mod
+
+# Localization File: Português Brasileiro (pt_BR) – por: Al-Myr/Last Update: 19/2/2015 – por: Al-Myr

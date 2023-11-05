@@ -1,0 +1,110 @@
+item.cookingforblockheads:recipe_book_tier0.name=Cucina per Sciocchi
+item.cookingforblockheads:recipe_book_tier1.name=Cucina per Sciocchi I
+item.cookingforblockheads:recipe_book_tier2.name=Cucina per Sciocchi II
+item.cookingforblockheads:heating_unit.name=Modulo riscaldamento
+item.cookingforblockheads:ice_unit.name=Modulo refrigerante
+item.cookingforblockheads:preservation_chamber.name=Modulo di conservazione
+
+tooltip.cookingforblockheads:recipe_book_tier0=Versione senza filtro
+tooltip.cookingforblockheads:recipe_book_tier0.description=Mostra tutte le ricette.
+tooltip.cookingforblockheads:recipe_book_tier1=Libro di ricette
+tooltip.cookingforblockheads:recipe_book_tier1.description=Mostra solo il cibo che puoi fare\ncon quello nel tuo inventario.
+tooltip.cookingforblockheads:recipe_book_tier2=Libro di cucina
+tooltip.cookingforblockheads:recipe_book_tier2.description=Puoi cucinarci il cibo usando\nquello nel tuo inventario.
+
+###
+
+tile.cookingforblockheads:cooking_table.name=Tavolo da cucina
+tile.cookingforblockheads:oven.name=Forno
+tile.cookingforblockheads:fruit_basket.name=Cesto per la frutta
+tile.cookingforblockheads:fridge.name=Frigorifero
+tile.cookingforblockheads:sink.name=Lavello
+tile.cookingforblockheads:tool_rack.name=Porta attrezzi
+tile.cookingforblockheads:milk_jar.name=Bottiglia di latte
+tile.cookingforblockheads:cow_jar.name=Mucca in Bottiglia
+tile.cookingforblockheads:toaster.name=Tostapane
+tile.cookingforblockheads:spice_rack.name=Portaspezie
+tile.cookingforblockheads:counter.name=Bancone da cucina
+tile.cookingforblockheads:cabinet.name=Armadio da cucina
+tile.cookingforblockheads:corner.name=Angolo cucina
+tile.cookingforblockheads:kitchen_floor.name=Pavimento cucina
+tile.cookingforblockheads:cutting_board.name=Tagliere
+
+tooltip.cookingforblockheads:multiblock_kitchen=Cucina multiblocco
+tooltip.cookingforblockheads:dyeable=Colorabile
+tooltip.cookingforblockheads:cooking_table.description=Permette di cucinare.
+tooltip.cookingforblockheads:oven.description=Permette di cuocere.
+tooltip.cookingforblockheads:sink.description=Provvede l'acqua per le ricette.
+tooltip.cookingforblockheads:fridge.description=Immagazzina gli ingredienti.
+tooltip.cookingforblockheads:fruit_basket.description=Immagazzina la frutta.
+tooltip.cookingforblockheads:tool_rack.description=Provvede gli strumenti.
+tooltip.cookingforblockheads:milk_jar.description=Provvede il latte.
+tooltip.cookingforblockheads:cow_jar.description=Produce e provvede lentamente latte.
+tooltip.cookingforblockheads:toaster.description=Trasforma il pane in toast.
+tooltip.cookingforblockheads:spice_rack.description=Immagazzina le spezie.
+tooltip.cookingforblockheads:counter.description=Immagazzina gli ingredienti.
+tooltip.cookingforblockheads:cabinet.description=Può essere posizionato sul muro sopra una cucina.
+tooltip.cookingforblockheads:corner.description=Non serve a niente.
+tooltip.cookingforblockheads:kitchen_floor.description=Non serve a niente.
+tooltip.cookingforblockheads:heating_unit.description=Permette di riscaldare il forno con l'energia.
+tooltip.cookingforblockheads:ice_unit.description=Provvede neve e ghiaccio per le ricette.
+tooltip.cookingforblockheads:preservation_chamber.description=Impedisce che l'ultimo oggetto venga consumato.
+tooltip.cookingforblockheads:cutting_board.description=Provvede un tagliere per le ricette.
+tooltip.cookingforblockheads:requires_pams=Richiede Pam's Harvestcraft
+tooltip.cookingforblockheads:cutting_board_deprecated=This item is deprecated.\nPam's Cutting board can be placed directly now.
+tooltip.cookingforblockheads:can_be_placed_in_world=Può essere piazzato nel mondo.
+
+###
+
+gui.cookingforblockheads:no_ingredients=Non\nhai gli\ningredienti
+gui.cookingforblockheads:no_selection=Seleziona un oggetto\nsulla destra per\nvedere la ricetta.
+
+tooltip.cookingforblockheads:click_to_see_recipe=Clicca per vedere la ricetta
+tooltip.cookingforblockheads:click_to_craft_one=Clicca di nuovo per craftare
+tooltip.cookingforblockheads:click_to_smelt_one=Clicca di nuovo per cucinare
+tooltip.cookingforblockheads:click_to_craft_stack=Shift-Click per fare uno stack
+tooltip.cookingforblockheads:click_to_smelt_stack=Shift-Click per cucinare uno stack
+tooltip.cookingforblockheads:missing_tools=Mancano gli strumenti per craftare
+tooltip.cookingforblockheads:missing_ingredients=Mancano gli ingredienti per craftare
+tooltip.cookingforblockheads:missing_oven=Manca il forno per cucinare
+tooltip.cookingforblockheads:sort_by_name=Ordina per nome
+tooltip.cookingforblockheads:sort_by_hunger=Ordina per sazietà
+tooltip.cookingforblockheads:sort_by_saturation=Ordina per saturazione
+tooltip.cookingforblockheads:click_to_lock=Right-Click per bloccare
+tooltip.cookingforblockheads:click_to_unlock=Right-Click per sbloccare
+tooltip.cookingforblockheads:scroll_to_switch=Scrolla per selezionare
+tooltip.cookingforblockheads:energy_stored=Energia immagazzinata: %d/%d
+tooltip.cookingforblockheads:oven_upgrade=Potenziamento forno
+tooltip.cookingforblockheads:fridge_upgrade=Potenziamento frigorifero
+
+###
+
+container.cookingforblockheads:oven=Forno
+container.cookingforblockheads:fridge=Frigorifero
+container.cookingforblockheads:spice_rack=Portaspezie
+container.cookingforblockheads:counter=Bancone da cucina
+container.cookingforblockheads:cabinet=Armadio da cucina
+container.cookingforblockheads:fruit_basket=Cesto per la frutta
+
+itemGroup.cookingforblockheads=Cooking for Blockheads
+
+###
+
+waila.cookingforblockheads:milk_stored=Latte immagazzinato: %d/%d
+waila.cookingforblockheads:toast_progress=Tostando... (%s)
+waila.cookingforblockheads:heating_unit=Potenziamento: Modulo riscaldamento
+waila.cookingforblockheads:ice_unit=Potenziamento: Modulo refrigerante
+waila.cookingforblockheads:preservation_chamber=Potenziamento: Modulo conservazione
+
+###
+
+cookingforblockheads:subtitle.fridge_open=Un frigorifero si apre
+cookingforblockheads:subtitle.fridge_close=Un frigorifero si chiude
+cookingforblockheads:subtitle.oven_open=Un forno si apre
+cookingforblockheads:subtitle.oven_close=Un forno si chiude
+cookingforblockheads:subtitle.toaster_start=Un tostapane inizia a tostare
+cookingforblockheads:subtitle.toaster_stop=Un tostapane ha finito di tostare
+
+###
+
+jei.cookingforblockheads:cow_jar=Mucca in Bottiglia

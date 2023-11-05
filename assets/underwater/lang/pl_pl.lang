@@ -1,0 +1,58 @@
+﻿#Creative tab
+itemGroup.underwater=Podwodny świat
+
+#Blocks
+tile.seaweed.name=Wodorost
+tile.seagrass.name=Trawa morska
+tile.seagrass_short.name=Krótka trawa morska
+tile.coral_1.name=Koralowiec
+tile.coral_2.name=Koralowiec
+tile.coral_3.name=Koralowiec
+tile.coral_4.name=Koralowiec
+tile.coral_5.name=Koralowiec
+tile.underwater_chest.name=Skrzynia skarbów
+tile.dried_seaweeds_block.name=Blok suszonych wodorostów
+
+#Wet blocks
+tile.wet.planks.oak.name=Mokre deski dębowe
+tile.wet.planks.birch.name=Mokre deski brzozowe
+tile.wet.planks.jungle.name=Mokre deski tropikalne
+tile.wet.planks.spruce.name=Mokre deski świerkowe
+tile.wet.planks.dark_oak.name=Mokre deski ciemnodębowe
+tile.wet.planks.acacia.name=Mokre deski akacjowe
+
+tile.wet.stairs.oak.name=Mokre dębowe schody
+tile.wet.stairs.birch.name=Mokre brzozowe schody
+tile.wet.stairs.jungle.name=Mokre tropikalne schody
+tile.wet.stairs.spruce.name=Mokre świerkowe schody
+tile.wet.stairs.dark_oak.name=Mokre ciemnodębowe schody
+tile.wet.stairs.acacia.name=Mokre akacjowe schody
+
+tile.wet.fence.oak.name=Mokry dębowy płot
+tile.wet.fence.birch.name=Mokry brzozowy płot
+tile.wet.fence.jungle.name=Mokry tropikalnt płot
+tile.wet.fence.spruce.name=Mokry świerkowy płot
+tile.wet.fence.dark_oak.name=Mokry ciemnodębowy płot
+tile.wet.fence.acacia.name=Mokry akacjowy płot
+
+tile.wet.slab.oak.name=Mokra dębowa płyta
+tile.wet.slab.birch.name=Mokra brzozowa płyta
+tile.wet.slab.jungle.name=Mokra tropikalna płyta
+tile.wet.slab.spruce.name=Mokra świerkowa płyta
+tile.wet.slab.dark_oak.name=Mokra ciemnodębowa płyta
+tile.wet.slab.acacia.name=Mokra akacjowa płyta
+
+tile.wet.trapdoor.oak.name=Mokra dębowa klapa
+
+tile.wet.doors.oak.name=Mokre dębowe drzwi
+
+tile.placeholder.treasure_chest.name=Atrapa skrzyni skarbów
+tile.placeholder.resources_chest.name=Atrapa skrzyni z zasobami
+tile.placeholder.food_chest.name=Atrapa skrzyni z jedzeniem
+tile.placeholder.leather_chest.name=Atrapa skrzyni ze skórą
+
+#GUIs
+container.underwater_chest.name=Skrzynia skarbów
+
+#Items
+item.dried_seaweed.name=Suszone wodorosty

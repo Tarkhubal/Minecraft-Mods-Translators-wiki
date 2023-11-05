@@ -1,17 +1,14 @@
-{   
-    "itemGroup.adapaxels.adapaxels_group": "全能工具",
-
+{
+	"itemGroup.adapaxels.adapaxels_group": "全能工具",
 	"item.adapaxels.wooden_paxel": "木制全能工具",
 	"item.adapaxels.golden_paxel": "黄金全能工具",
 	"item.adapaxels.stone_paxel": "石制全能工具",
 	"item.adapaxels.iron_paxel": "铁制全能工具",
 	"item.adapaxels.diamond_paxel": "钻石全能工具",
 	"item.adapaxels.netherite_paxel": "下界合金全能工具",
-	
 	"item.adapaxels.vibranium_paxel": "振金全能工具",
 	"item.adapaxels.adamantium_paxel": "艾德曼合金全能工具",
 	"item.adapaxels.nether_paxel": "下界全能工具",
-	
 	"item.adapaxels.copper_paxel": "铜制全能工具",
 	"item.adapaxels.tin_paxel": "锡制全能工具",
 	"item.adapaxels.silver_paxel": "白银全能工具",
@@ -28,7 +25,6 @@
 	"item.adapaxels.galaxium_paxel": "锰铝尖晶石全能工具",
 	"item.adapaxels.univite_paxel": "尤尼弗全能工具",
 	"item.adapaxels.lunum_paxel": "新月合金全能工具",
-	
 	"item.adapaxels.tech_reborn_bronze_paxel": "再生青铜全能工具",
 	"item.adapaxels.ruby_paxel": "红宝石全能工具",
 	"item.adapaxels.sapphire_paxel": "蓝宝石全能工具",

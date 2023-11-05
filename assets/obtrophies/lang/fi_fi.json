@@ -1,0 +1,15 @@
+{
+    "_credit": "Traducted by Minecraft Mods Translators - This traduction is all right reserved. Contact Un Thomas Sauvage !!#1309 on Discord for more information. Want to join the Community ? Go here : https://discord.gg/nhZUW7rjrX",
+    
+    "block.obtrophies.trophy": "Pokaali",
+    "block.obtrophies.trophy.entity": "%s Pokaali",
+    "command.obtrophies.count": "Pokaalien määrä: %s",
+    "command.obtrophies.empty_list": "Pokaalilista on tyhjä!",
+    "command.obtrophies.place": "Sijoitettu %s Pokaalia",
+    "item.obtrophies.trophy.modid": "Lähde: %s",
+    "itemGroup.obtrophies": "Pokaalit",
+    "gui.obtrophies.trophy_jei": "Pokaali-pudotukset",
+    "gui.obtrophies.jei.drop_chance": "Mahdollisuus: %s%%",
+    "gui.obtrophies.jei.fake_player_drops": "(valepelaajien lukumäärä)",
+    "gui.obtrophies.jei.player_drops": "Pudotukset vain pelaajan tappaessa"
+}

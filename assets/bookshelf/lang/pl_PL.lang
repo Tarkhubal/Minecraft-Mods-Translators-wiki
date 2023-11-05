@@ -1,0 +1,34 @@
+#Polish Language File
+
+#Moon Phases
+moon.phase.full.name=Pełnia Księżyca
+moon.phase.waxing.gibbous.name=Przybywający Księżyc garbaty
+moon.phase.first.quarter.name=Pierwsza kwadra Księżyca
+moon.phase.waxing.crescent.name=Przybywający Księżyc sierpowaty
+moon.phase.new.name=Nów Księżyca
+moon.phase.waning.crescent.name=Ubywający Księżyc sierpowaty
+moon.phase.last.quarter.name=Ostatnia kwadra Księżyca
+moon.phase.waning.gibbous.name=Ubywający Księżyc garbaty
+
+#Months
+time.bookshelf.month.january.name=Styczeń
+time.bookshelf.month.february.name=Luty
+time.bookshelf.month.march.name=Marzec
+time.bookshelf.month.april.name=Kwiecień
+time.bookshelf.month.may.name=Maj
+time.bookshelf.month.june.name=Czerwiec
+time.bookshelf.month.july.name=Lipiec
+time.bookshelf.month.august.name=Sierpień
+time.bookshelf.month.september.name=Wrzesień
+time.bookshelf.month.october.name=Październik
+time.bookshelf.month.november.name=Listopad
+time.bookshelf.month.december.name=Grudzień
+
+#Days
+time.bookshelf.day.sunday.name=Niedziela
+time.bookshelf.day.monday.name=Poniedziałek
+time.bookshelf.day.tuesday.name=Wtorek
+time.bookshelf.day.wednesday.name=Środa
+time.bookshelf.day.thursday.name=Czwartek
+time.bookshelf.day.friday.name=Piątek
+time.bookshelf.day.saturday.name=Sobota

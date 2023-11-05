@@ -1,0 +1,18 @@
+{
+  "key.lightoverlay.category":"光照顯示",
+  "key.lightoverlay.enable_overlay":"啟用光照顯示",
+  "description.lightoverlay.caching":"如果覆蓋範圍大於16或在渣機上運行,建議緩存。",
+  "config.lightoverlay.general":"基本",
+  "config.lightoverlay.reach":"達到:",
+  "config.lightoverlay.caching":"緩存:",
+  "config.lightoverlay.crossLevel":"照明等級:",
+  "config.lightoverlay.secondaryLevel":"第二級亮度:",
+  "config.lightoverlay.showNumber":"數字顯示替換:",
+  "config.lightoverlay.smoothLines":"平滑線:",
+  "config.lightoverlay.underwater":"顯示水下:",
+  "config.lightoverlay.lineWidth":"行寬:",
+  "config.lightoverlay.yellowColor":"黃色:",
+  "config.lightoverlay.secondaryColor":"第二級顏色:",
+  "config.lightoverlay.redColor":"紅色:",
+  "config.lightoverlay.invalidColor":"無效的顏色"
+}

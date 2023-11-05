@@ -1,0 +1,130 @@
+# GuiLM
+## Buttons
+gui_lm.button.accept=Accepter
+gui_lm.button.add=Ajouter
+gui_lm.button.close=Fermer
+gui_lm.button.save=Sauvegarder
+gui_lm.button.info=Info
+
+## Labels
+gui_lm.label.other=Auter
+gui_lm.label.server_forced=Serveur Forcé: %s
+gui_lm.label.online=En ligne
+gui_lm.label.offline=Hors ligne
+gui_lm.label.whitelist=Liste Blanche
+gui_lm.label.blacklist=Liste Noir
+gui_lm.label.color=Couleur
+
+## Stats
+ftbl.stat.time_played=Temps Jouer
+ftbl.stat.last_seen=Dernière Connexion
+ftbl.stat.first_joined=Premier Connexion
+
+## Sides
+facing.down=Bas
+facing.up=Haut
+facing.north=Nord
+facing.south=Sud
+facing.west=Ouest
+facing.east=Est
+
+ftbl.dside.bottom=Bas
+ftbl.dside.top=Haut
+ftbl.dside.back=Dos
+ftbl.dside.front=Devant
+ftbl.dside.left=Gauche
+ftbl.dside.right=Droit
+
+# FTBLib Lang
+ftbl.lang.mode.loaded=Mode mis à '%s'!
+ftbl.lang.mode.not_found=Ce mode n'existe pas!
+ftbl.lang.mode.already_set=Ce mode et déjà mis!
+ftbl.lang.mode.current=Mode en cours: %s
+ftbl.lang.mode.list=Modes Disponible: %s
+
+ftbl.lang.reload_server=FTBLib: Serveur Rechargé en %s
+ftbl.lang.reload_client=FTBLib: Client Rechargé en %s
+ftbl.lang.reload_client_config_1=Server Rechargé. Vous Pouvez
+ftbl.lang.reload_client_config_2=Rechargé les données client
+
+ftbl.lang.raw=%s
+ftbl.lang.missing_args=Arguments Manquent: %s!
+ftbl.lang.missing_args_num=Arguments Manquent: %s Plus!
+ftbl.lang.feature_disabled=Cette fonction est désactivée!
+ftbl.lang.invalid_subcmd=Sous-commande non valide: '%s'!
+
+ftbl.lang.owner=Owner: %s
+ftbl.lang.delete_item=Voulez-vous supprimer '%s'?
+ftbl.lang.server_forced=Remplace le serveur par '%s'
+ftbl.lang.commands=Commandes
+ftbl.lang.my_permissions=Mes autorisations
+ftbl.lang.all_permissions=Tous les autorisations
+ftbl.lang.difficulty=Difficulté: %s
+
+# Teams
+ftbl.lang.team.config='%s' Configuration d'équipe
+ftbl.lang.team.created=équipe '%s' créer
+ftbl.lang.team.deleted=équipe '%s' Supprimé
+ftbl.lang.team.member_left=%s A quitté votre équipe!
+ftbl.lang.team.member_joined=%s A rejoint votre équipe!
+ftbl.lang.team.transfered_ownership=Le nouveau propriétaire est maintenant %s
+ftbl.lang.team.invited=Invité %s à '%s'
+ftbl.lang.team.invited_you=Vous avez été invité à '%s' Par %s
+ftbl.lang.team.cancel_invite=Annuler l'invitation
+ftbl.lang.team.error.not_found=équipe '%s' pas trouvé!
+ftbl.lang.team.error.no_team=Vous devez être dans une équipe pour faire cela!
+ftbl.lang.team.error.must_leave=Vous devez quitter votre équipe pour le faire!
+ftbl.lang.team.error.not_owner=Vous n'êtes pas le propriétaire de cette équipe!
+ftbl.lang.team.error.not_member=%s N'est pas membre de cette équipe!
+ftbl.lang.team.error.must_transfer_ownership=Vous devez transférer la propriété!
+ftbl.lang.team.error.already_invited=%s Est déjà invité!
+ftbl.lang.team.error.failed_to_join=Impossible de rejoindre cette équipe!
+ftbl.lang.team.permission.set=Autorisation '%s' pour %s définie sur %b
+ftbl.lang.team.permission.already_set=Autorisation '%s' pour %s est déjà définie sur %b!
+ftbl.lang.team.permission.owner=Impossible de modifier les autorisations du propriétaire!
+
+ftbl.lang.team_color.blue=Blue
+ftbl.lang.team_color.cyan=Cyan
+ftbl.lang.team_color.green=Vert
+ftbl.lang.team_color.yellow=Jaune
+ftbl.lang.team_color.orange=Orange
+ftbl.lang.team_color.red=Rouge
+ftbl.lang.team_color.pink=Rose
+ftbl.lang.team_color.magenta=Magenta
+ftbl.lang.team_color.purple=Violet
+ftbl.lang.team_color.gray=Gris
+
+# Action Buttons
+sidebar_button.ftbl.settings=Paramètres du client
+sidebar_button.ftbl.my_server_settings=Mes paramètres du serveur
+sidebar_button.ftbl.notifications=Notifications
+
+# Privacy Level
+ftbl.privacy=Vie Privée
+ftbl.privacy.public=Public
+ftbl.privacy.private=Privé
+ftbl.privacy.team=équipe
+
+# Redstone Mode
+ftbl.redstonemode=Redstone Mode
+ftbl.redstonemode.disabled=Désactivé
+ftbl.redstonemode.active_high=Hautement actif
+ftbl.redstonemode.active_low=activite Base
+ftbl.redstonemode.pulse=Pulsations
+
+# Inventory Mode
+ftbl.invmode=Mode inventaire
+ftbl.invmode.io=Entrée/Sortie
+ftbl.invmode.in=Insérer uniquement
+ftbl.invmode.out=Extrait seulement
+ftbl.invmode.none=Désactivé
+
+# Click Actions
+click_action.cmd=Commande
+click_action.show_cmd=Afficher la commande
+click_action.url=Ouvrir URL
+click_action.file=Ouvrir le Fichier
+click_action.gui=Ouvrir Gui
+
+# Guide
+ftbl.guide=FTBLib

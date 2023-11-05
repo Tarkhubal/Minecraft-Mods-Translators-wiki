@@ -1,0 +1,105 @@
+item.wrench.name=clé à molette(NON-TERMINER Ne fait rien)
+item.coal_dust.name=Poudre De Charbon
+item.iron_dust.name=Poudre De Fer
+item.gold_dust.name=Poudre D'or
+item.diamond_dust.name=Poudre De Diamand
+item.copper_dust.name=Poudre De Cuivre
+item.tin_dust.name=Poudre D'étain
+item.silver_dust.name=Poudre D'argent
+item.lead_dust.name=Poudre De Plomb
+item.copper_ingot.name=Lingot De Cuivre
+item.tin_ingot.name=Lingot D'étain
+item.lead_ingot.name=Lingot De Plomb
+item.silver_ingot.name=Lingot D'argent
+item.electrum_ingot.name=Lingot D'électrum
+item.electrum_dust.name=Poudre D'électrum
+item.invar_ingot.name=Lingot D'invar
+item.platinum_ingot.name=Lingot De Platine
+item.copper_plate.name=Plaque De Cuivre
+item.iron_plate.name=Plaque De Fer
+item.lead_plate.name=Plaque De Plomb
+item.electrum_plate.name=Plaque D'électrum
+item.invar_plate.name=Plaque D'invar
+item.platinum_plate.name=Plaque De Platine
+item.lead_jetpack.name=Réacteur Dorsal Infusé Au Plomb
+item.nickel_ingot.name=Lingot De Nickel
+item.nickel_dust.name=Poudre De Nickel
+item.fueled_ender_pearl.name=Ender Pearl Enrichi
+item.tin_gear.name=Roue Dentée En étain
+item.speedupgrade_m1.name=Upgrade de vistesse MK1
+item.speedupgrade_m2.name=Upgrade de vistesse MK2
+item.speedupgrade_m3.name=Upgrade de vistesse MK3
+item.energyupgrade.name=Upgrade De Stockage D'énergie
+item.te_manual.name=Manuel/Guide Tech Expansion
+item.upgrade_base.name=Base Pour Upgrade
+item.raw_rubber.name=Caoutchouc brut
+item.rubber.name=Caoutchouc
+item.plastic.name=Plastique brut
+item.plastic_sheets.name=Feuilles en plastique
+
+tile.rf_conduit_defluxed.name=DeFluxed RF Conduit
+tile.pulverizer.name=Pulvériseur
+tile.creative_energy_bank.name=Batterie Créative
+tile.rf_furnace.name=Four électrique
+tile.quarry.name=Expansion Carrière
+tile.metalbender.name=Cintreuse
+tile.lead_infused_energy_bank.name=Batterie Infusé Au Plomb
+tile.electrum_infused_energy_bank.name=Batterie Infusé A L'électrum
+tile.coalgen.name=Générateur Au Charbon
+tile.lavagen.name=Générateur A La Lave
+tile.endergen.name=Ender Générateur
+tile.fluxed_rf_conduit.name=Fluxed RF Conduit
+tile.energized_rf_conduit.name=Energized RF Conduit
+tile.machineframe.name=Machine Base
+tile.conveyor_belt.name=Tapis Roulant
+
+tile.copper_ore.name=Minerai De Cuivre
+tile.copper_block.name=Bloc De Cuivre
+tile.tin_ore.name=Minerai D'étain
+tile.tin_block.name=Bloc D'étain
+tile.lead_ore.name=Minerai De Plomb
+tile.lead_block.name=Bloc De Plomb
+tile.silver_ore.name=Minerai D'argent
+tile.silver_block.name=Bloc D'argent
+tile.electrum_block.name=Bloc D'électrum
+tile.invar_block.name=Bloc D'invar
+tile.platinum_block.name=Bloc De Platine
+tile.platinum_ore.name=Minerai De Platine
+tile.nickel_block.name=Bloc De Nickel
+tile.nickel_ore.name=Minerai De Nickel
+tile.cracked_stone.name=Pierre Fissurée
+tile.burnt_stone.name=Pierre Brûlée
+
+tile.rubber_sapling.name=Jeune arbre à Caoutchouc
+tile.rubber_wood.name=Bûche d'arbre à Caoutchouc
+tile.rubber_leaves.name=Feuilles d'arbre à Caoutchouc
+
+itemGroup.TechExpansion=Tech Expansion
+itemGroup.Conduits=Tech Expansion Conduits
+
+techexpansion.guimanual.index=&bIndex
+techexpansion.guimanual.machines=&bMachine
+techexpansion.guimanual.generators=&bGénérateurs
+techexpansion.guimanual.upgrades=&bUpgrades
+techexpansion.guimanual.resources=&bDivers
+techexpansion.guimanual.github=&eGithub
+
+techexpansion.guimanual.indextext=Bienvenue dans le manuel de Tech Expansion. Ici, vous pouvez trouver diverses informations concernant des éléments ou des ressources, des machines / des blocs, des générateurs et des Upgrades disponibles. Ce livre est en cours de production, il est nécessaire de manquer des morceaux d'information non implémentés, il suffit de les signaler sur le github et je vais travailler sur eux.
+techexpansion.guimanual.machinestext=Dans ce cas, vous apprendrez toutes sur les machines disponibles, ainsi que leurs recettes et d'autres informations. Cliquez sur la flèche droite pour continuer.
+techexpansion.guimanual.pulverizertext=Le Pulverizeur est comme n'importe quel broyeur / macerateur que vous avez utilisé dans d'autres mods. Il faudra un minerai ou un lingot et le transformera en poudre. Si l'entrée est un minerai, elle produira deux fois cette poudre. Est cette poudre poura lingot. Le Pulverizeur sert à créer de la poudre pour fabriquer d'autres alliages ou pour doubles le nombre de lingot produit avec un minerais. Vérifiez l'onglet Upgrades pour les Upgrades.
+techexpansion.guimanual.rffurnacetext=Le Four électrique est un four basique et peut être amélioré avec de nombreuses choses. Il utilise automatiquement toute recette définie en vanilla.
+techexpansion.guimanual.metalbendertext=La Cintreuse est une machine pour travailler les alliage. elle crée des plaques en fonction du matériaux. Ces plaques sont utilisées pour diverses recettes, y compris pour d'autres machines, donc cette machine et importante.
+techexpansion.guimanual.quarrytext=l'Expansion Carrière est une carrière comme vous l'avez peut-être vu dans d'autres mods, cela mine a votre place. elle utilise une zone de 16x16 à l'endroit où il va miner, elle peux miner que sur un chunk donc la ou elle est placer. La carrière nécessite de l'énergie et elle sortira automatiquement les blocs minés dans un inventaire adjacent ou les crache au-dessus d'elle-même si elle a pas trouvé inventaire.
+
+techexpansion.guimanual.generatorstext=Vous pouvez ici connaître toutes les options de génération d'électricité disponibles dans TE. Il y a plein d'articles ajoutés / travaillés tous les jours. Si vous avez des suggestions, postez-les dans la discorde et ils seront pris en considération: D
+techexpansion.guimanual.coalgentext=Le générateur de charbon est une macine de génération d'électricité qui accepte tout ce qui peut être brûlé dans un four. Le temps pour se consumer plus long selon l'élément / bloc et donc plus de puissance généré sera grande.
+techexpansion.guimanual.endergentext=L'Ender Générateur est un générateur qui utilise des Ender Pearl Enrichi pour générer de l'énergie ou Ender Pearls (si défini dans la configuration). C'est comme le générateur de charbon, mais sur une source de carburant différente et génère plus de puissance.
+techexpansion.guimanual.lavagentext=Le générateur de lave est tout comme il l'indique. Il faut de la lave et la transforme en énergie. Ne peut pas être plus simple que ça, hein? Faites un clic droit avec un seau de lave ou branchez des tuyaux de liquides pour obtenir de la lave.
+
+techexpansion.guimanual.upgradestext=Ici, vous pouvez apprendre tout sur les Upgrades disponibles que vous pouvez appliquer à diverses machines à votre avantage. Il existe des façons spécifiques d'appliquer des mises à niveau pour fonctionner. Vous pouvez en apprendre plus ici. Remarque: les Upgrades doivent être placer dans un ordre, en commençant par le MK le plus bas en haut vers un niveau supérieur, sinon ils ne fonctionneront pas.
+techexpansion.guimanual.upgradebasetext=La Base Pour Upgrade est un élément requis pour toutes les recettes de Upgradeu. En soi, il est inutile, mais utilisez-le dans les recette et vous pouvez Upgrades vos machines.
+techexpansion.guimanual.speedupgradestext=Les upgrades de vitesse accélèrent les machines pour les fair fonctionner plus rapidement. Il y a 3 niveaux pour les upgrades elle se nom MK et il a MK1 MK2 et MK3. Chaque updrade nécessite le niveaux d u desous. Si vous souhaitez utiliser MK3, vous avez également besoin de MK1 et MK2.
+techexpansion.guimanual.energyupgradestext=Les Upgrades énergétiques améliorent l'énergie qu'une machine qu'elle peut stocker. Ils sont placés sous la barre d'énergie et dupliquent la quantité d'énergie que la machine peut stocker. Ils sont actuellement WIP et ne fonctionnent pas.
+
+techexpansion.guimanual.resourcestext=Vous pouvez ici vous familiariser avec tous les éléments ou blocs qui n'ont pas été mentionnés dans une section ci-dessus. Cette section comprend des informations sur: EX. Réacteur Dorsal, Stockage D'énergie, et bien plus encore.
+

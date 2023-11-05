@@ -1,0 +1,56 @@
+#KEYBINDING
+key.config_races=Configura Razza
+category.jjraces=JJ Races
+#ITEM
+item.mirror.name=Specchio
+item.comb.name=Pettine
+#GUI
+gui.razza=Razza
+gui.salva=Salva
+gui.razza_tipo_1=Umano
+gui.razza_tipo_2=Nano
+gui.razza_tipo_3=Elfo
+gui.razza_tipo_4=Kull
+gui.razza_tipo_5=Orco
+gui.razza_tipo_6=Grell
+gui.razza_tipo_7=Vinska
+gui.posizione=Posizione
+gui.colore=Colore
+gui.tipo=Tipo
+gui.gender=Sesso
+gui.skin=Skin
+gui.nessuna=Nessuna
+gui.addskin1=aggiungi le tue skin in
+gui.addskin2=assets\jjraces\textures\skin
+gui.eyes=Visuale Prima Persona
+gui.eyes_enabled=Abilitato
+gui.eyes_disabled=Disabilitato
+gui.descrizione_umani=Gli umani sono creature che  si adattano facilme alle si- tuazioni e agli ambienti più   disparati, ma sono anche   estremamente individualisti  e ambiziosi. Questo li rende  molto diversificati per cul- tura e tradizioni rispetto  alle altre razze.
+gui.descrizione_nani=I Nani sono simili agli umanima più tozzi e robusti. Prefe-riscono i luoghi sotterranei  e amano l'oro e le gemme   preziose. Instancabili mina- tori, passano gran parte del- la loro vita a contatto con    la pietra con la quale       condividono la durezza       di carattere.
+gui.descrizione_elfi=  Gli Elfi sono simili agli   umani, fatta eccezione per   le orecchie a punta ed i ca-pelli argentati. Diverso è il carattere, gli elfi infatti mettono sempre al primo postola collettività l'individuo. Nutrono un profondo rispetto per la natura, uccidendo solose necessario.
+gui.descrizione_kull=I Kull sono esseri molto alti e robusti, la caratteristica che piu' li contraddistingue sono le loro possenti corna.  Mettono al primo posto la  propria famiglia che ricopre   un ruolo importante nella    loro cultura. Vivono in     piccoli gruppi ed hanno un  carattere mite.
+gui.descrizione_orchi=Gli orchi sono creature pos-  senti caratterizzati dalla  mascella pronunciata e dalla pelle olivastra. Formano dei  grandi clan di cui il capo  garantisce la prosperità e lasicurezza. Una volta l’anno  si sfidano in duello per il  comando del clan, che va  al più forte.
+gui.descrizione_grell= I grell hanno sono  minuti,  con lunghe orecchie e pelle olivastra. Sono molto schivi e scaltri, preferiscono evi-   tare i combattimenti e si  trovano a proprio agio vicino a stagni e ruscelli, zone   nelle quali sfruttano la vege -tazione per nascondersi e  organizzare agguati.
+gui.descrizione_vinska=I Vinska sono una razza anti- ca e misteriosa. Invece di  invecchiare e morire dopo un certo tempo entrano in stasi durante la quale deperiscono.Questo li rende molto longevi ma dall’aspetto sgradevole,  per cui dopo diverse stasi  molti preferiscono vivere in solitudine.
+gui.lateral_button_r=Sesso
+gui.lateral_button_1=Accessorio Razza
+gui.lateral_button_2=Capelli
+gui.lateral_button_3=Barba
+gui.lateral_button_4=Skin
+gui.lateral_button_5=Altezza Visuale
+#TABS
+itemGroup.jjraces=JJ Races
+#CONFIGURATION
+config.general.update_chat_message=messaggio nuovo aggiornamento
+config.general.open_gui_config_races_whit_keyboard=apri gui configurazione tramite tastiera
+config.general.open_gui_config_races_whit_right_click=apri gui configurazione tramite tasto destro
+config.general.consume_item_mirror=Consuma lo specchio dopo l'uso
+config.general.consume_item_comb=Consuma il pettine dopo l'uso
+config.general.enable_dwarf_race=Abilita la razza Nano
+config.general.enable_elf_race=Abilita la razza Elfo
+config.general.enable_kull_race=Abilita la razza Kull
+config.general.enable_orc_race=Abilita la razza Orco
+config.general.enable_grell_race=Abilita la razza Grell
+#CHAT MESSAGE
+jjraces.chat.new_update_1=E' disponibile per il download, la versione
+jjraces.chat.new_update_2=di JJ Races

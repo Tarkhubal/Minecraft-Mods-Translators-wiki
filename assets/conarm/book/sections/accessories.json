@@ -1,0 +1,34 @@
+[
+  {
+    "type": "armormodifier",
+    "data": "accessories/travel_goggles.json"
+  },
+  {
+    "type": "armormodifier",
+    "data": "accessories/travel_night.json"
+  },
+  {
+    "type": "armormodifier",
+    "data": "accessories/travel_soul.json"
+  },
+  {
+    "type": "armormodifier",
+    "data": "accessories/travel_sack.json"
+  },
+  {
+    "type": "armormodifier",
+    "data": "accessories/travel_sneak.json"
+  },
+  {
+    "type": "armormodifier",
+    "data": "accessories/travel_slowfall.json"
+  },
+  {
+    "type": "armormodifier",
+    "data": "accessories/travel_belt.json"
+  },
+  {
+    "type": "armormodifier",
+    "data": "accessories/potion_belt.json"
+  }
+]

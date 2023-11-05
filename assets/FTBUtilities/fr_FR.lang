@@ -1,0 +1,98 @@
+# Buttons
+ftbu.button.explosions=Explosions
+ftbu.button.block_security=Bloquer la sécurité
+
+# Client Settings
+client_config.ftbu=FTBUtilities
+client_config.ftbu.render_badges=Afficher les badges
+client_config.ftbu.loaded_chunks_space_key=Utiliser la touche Espace pour les Chunks Chargés
+
+# Server Settings
+my_server_settings.ftbu=FTBUtilities
+my_server_settings.ftbu.render_badge=Rendre mon badge
+my_server_settings.ftbu.chat_links=Liens du chat
+my_server_settings.ftbu.explosions=Explosions
+my_server_settings.ftbu.fake_players=Autoriser les joueurs faux
+my_server_settings.ftbu.security_level=Bloquer le niveau de sécurité
+
+# Action Buttons
+sidebar_button.ftbu.toggle.gamemode=Activé le mode de jeu
+sidebar_button.ftbu.toggle.rain=Activé la pluie
+sidebar_button.ftbu.toggle.day=Définir l'heure du jour
+sidebar_button.ftbu.toggle.night=Définir l'heure de la nuit
+sidebar_button.ftbu.heal=Guérir
+sidebar_button.ftbu.guide=Guide
+sidebar_button.ftbu.server_info=Info du Serveur
+sidebar_button.ftbu.claimed_chunks=Chunks Claim
+sidebar_button.ftbu.trash_can=Poubelle
+sidebar_button.ftbu.shop=Boutique
+sidebar_button.ftbu.mail=Courrier
+
+# Keys
+key.categories.ftbu=FTBMods
+key.ftbu.guide=Ouvrir le guide
+key.ftbu.chunk_border=Active les Frontière de Chunk
+key.ftbu.light_values=Active les Valeurs D'éclairage
+key.ftbu.warp=Warp GUI
+
+# Misc
+ftbu.lang.timer_restart=Le serveur a redémarrer en %s
+ftbu.lang.timer_backup=Sauvegarde du serveur en: %s
+ftbu.button.claims_unclaim_all=Unclaim Tous les chunks
+ftbu.button.claims_unclaim_all_dim=Les chunks on etais Unclaim en %s
+ftbu.button.claims_unclaim_all_q=Unclaim tous les chunks?
+ftbu.button.claims_unclaim_all_dim_q=Les chunks on etais Unclaim en %s?
+ftbu.label.claims_invalid_dim=Vous ne pouver pas claim ces chunks dans cette dimension
+ftbu.label.cchunks_count=Chunks Claim: %d / %d
+ftbu.label.lchunks_count=Chunks Charger: %d / %d
+ftbu.label.friend=Ami
+ftbu.label.pfriend=Ami en attente
+ftbu.label.new_friends=Nouvelles demandes d'amis!
+ftbu.label.new_friends_click=Cliquez pour accepter toutes les demandes
+ftbu.button.block_security=Bloquer la sécurité
+ftbu.stat.dph=Décès par heure
+ftbu.leaderboard.title=Classement
+
+# Warps
+ftbu.warp.set=Warp '%s' Mis!
+ftbu.warp.del=Warp '%s' Supprimer!
+ftbu.warp.not_set=Warp Inconnu: '%s'!
+ftbu.warp.tp=Teleport vers '%s'!
+ftbu.warp.no_dp=Vous ne pouvez revenir qu'une seule fois!
+ftbu.warp.spawn=Teleport vers spawn
+
+# Homes
+ftbu.home.set=Home '%s' Mis!
+ftbu.home.del=Home '%s' Supprimer!
+ftbu.home.not_set=Home Inconnu: '%s'!
+ftbu.home.cross_dim=Vous ne pouvez pas vous téléporter vers une autre dimension!
+ftbu.home.limit=Vous ne pouvez pas définir d'autres emplacements!
+
+# Backups
+ftbu.backup.start=La Sauvegarde du Serveur a Démarré!
+ftbu.backup.stop=Le serveur de sauvegare Arêté!
+ftbu.backup.end_1=Sauvegarde du serveur effectuée en %s!
+ftbu.backup.end_2=Sauvegarde du serveur effectuée en %s! (%s)
+ftbu.backup.fail=Échec de la sauvegarde du monde! (%s)
+ftbu.backup.manual_launch=%s a Lancé la sauvegarde manuelle!
+ftbu.backup.already_running=Sauvegarde en cours!
+ftbu.backup.not_running=La sauvegarde ne fonctionne pas!
+ftbu.backup.size=Taille actuelle du monde: %s, Taille du dossier des sauvegardes: %s
+
+# Chunktypes
+ftbu.chunktype.wilderness=Désert
+ftbu.chunktype.claimed=Région Claim
+ftbu.chunktype.loaded=Chunk Chargé
+
+# Pack States
+ftbu.pack_state.download=Télécharger
+ftbu.pack_state.downloading=Téléchargement en cours...
+ftbu.pack_state.remove=Retirer
+ftbu.pack_state.update=Mettre à jour
+
+# Guide
+ftbu.guide=FTBUtilities
+ftbu.guide.util_buttons=Utility Boutons
+ftbu.guide.chunk_claiming=Chunk Claiming
+ftbu.guide.ranks=Rangs
+ftbu.guide.tp_commands=Commandes de téléportation
