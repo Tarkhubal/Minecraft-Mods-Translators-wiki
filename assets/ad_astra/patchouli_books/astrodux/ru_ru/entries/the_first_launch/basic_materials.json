@@ -1,0 +1,32 @@
+{
+  "name": "Основные материалы",
+  "icon": "ad_astra:steel_plate",
+  "sortnum": 0,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Железная пластина",
+      "item": "ad_astra:iron_plate",
+      "text": "Железная пластина является самым основным материалом в Ad Astra. Она создаётся путём объединения железного слитка и молота на верстаке. Используется для создания простейших механизмов, необходимых для постройки ракеты и полёта в космос."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Молот и пластины",
+      "recipe": "ad_astra:recipes/hammer",
+      "recipe2": "ad_astra:hammering/iron_plate"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Стальная пластина",
+      "item": "ad_astra:steel_plate",
+      "text": "Стальные пластины являются основным компонентом ракеты первого уровня и многих важных механизмов. Они создаются путём прессования стальных или железных слитков в прессе, который можно зарядить энергией от угольного генератора. Обязательно создайте побольше стальных пластин, так как они понадобятся вам во время ваших космических путешествий."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Генератор, Пресс",
+      "recipe": "ad_astra:recipes/coal_generator",
+      "recipe2": "ad_astra:recipes/compressor"
+    }
+  ]
+}

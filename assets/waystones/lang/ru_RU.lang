@@ -1,42 +1,27 @@
-tile.waystones:waystone.name=Путеводный обелиск
+# Переведено Obscurus
+tile.waystones:waystone.name=Путеводный камень
 
-item.waystones:warp_scroll.name=Свиток перемещения
-item.waystones:warp_scroll_bound.name=Свиток перемещения (привязан)
-item.waystones:return_scroll.name=Свиток возврата
-item.waystones:warp_stone.name=Камень перемещения
-item.waystones:bound_scroll.name=Связанный свиток
+item.waystones:returnScroll.name=Свиток Возвращения
+item.waystones:warpStone.name=Камень Телепорта
 
-itemGroup.waystones=Waystones
+waystones:noDimensionWarp=Вы не можете телепортироваться между мирами.
+waystones:waystoneBroken=Связанный путеводный камень был передвинут или уничтожен.
+waystones:scrollNotBound=Вы еще не активировали ни одного путеводного камня.
+waystones:stoneNotCharged=Камень Телепорта еще не зарядился.
+waystones:activatedWaystone=Активирован путеводный камни: %s
+waystones:nameOccupied=Имя %s уже используется.
 
-waystones:noDimensionWarp=Вы не можете перемещаться между мирами.
-waystones:waystoneBroken=Привязанный обелиск был перемещён или уничтожен.
-waystones:returnImpossible=Вы ещё не активировали ни одного обелиска.
-waystones:scrollNotBound=Этот свиток не привязан к обелиску.
-waystones:stoneNotCharged=Камень перемещения ещё не перезарядился.
-waystones:activatedWaystone=Активированный обелиск: %s
-waystones:nameOccupied=Название %s уже используется.
-waystones:notTheOwner=Только игрок поставивший обелиск может его переименовывать.
-waystones:creativeRequired=Нужно быть в Творческом режиме чтобы редактировать глобальные обелиски.
-waystones:scrollBound=Свиток привязан: %s
-
-gui.waystones:current_location=Текущее Местоположение:
 gui.waystones:warpStone.selectDestination=Выберите пункт назначения:
 gui.waystones:warpStone.nextPage=Далее
 gui.waystones:warpStone.previousPage=Назад
-gui.waystones:confirmReturn=Вы действительно хотите переместиться к последнему обелиску?
-gui.waystones:confirmReturn.boundTo=Привязан: %s
-gui.waystones:confirmReturn.noWaystoneActive=Нет активных обелисков.
-gui.waystones:editWaystone.enterName=Введите название обелиска:
+gui.waystones:confirmReturn=Вы действительно хотите телепортироваться к последнему путеводному камню?
+gui.waystones:confirmReturn.boundTo=Связан с: %s
+gui.waystones:confirmReturn.noWaystoneActive=Нет активных путеводных камней.
+gui.waystones:editWaystone.enterName=Введите имя путеводного камня:
 gui.waystones:editWaystone.isGlobal=Глобальный
 
 tooltip.waystones:cooldownLeft=Перезарядка: %d секунд
-tooltip.waystones:boundTo=Привязан: %s
-tooltip.waystones:none=Нет
-tooltip.waystones:returnToWaystone=Вернуться к обелиску
-tooltip.waystones:openWaystoneMenu=Открыть меню перемещений
-tooltip.waystones:levelRequirement=Стоит уровней: %d
-
-stat.waystones:waystonesActivated=Активировано путеводных обелисков
-
-waystones.general.globalinterdimension=Межпространственная телепортация (глобальные обелиски)
-waystones.worldgen.customnames=Произвольные названия
+tooltip.waystones:boundTo=Связан с: %s
+tooltip.waystones:none=Пусто
+tooltip.waystones:returnToWaystone=Назад к путеводному камню
+tooltip.waystones:openWaystoneMenu=Открыть меню путеводного камня

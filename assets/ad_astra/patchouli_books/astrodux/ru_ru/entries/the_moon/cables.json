@@ -1,0 +1,23 @@
+{
+  "name": "Кабели",
+  "icon": "ad_astra:desh_cable",
+  "sortnum": 4,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Кабели",
+      "item": "ad_astra:desh_cable",
+      "text": "Кабели обеспечивают передачу энергии на большие расстояния. Есть два варианта: стальной и дешевый – дешевый может передавать в 4 раза больше энергии. При использовании ключа кабели можно сконфигурировать так, чтобы они удлинялись в разные стороны или отсоединялись от узлов сети."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:recipes/steel_cable",
+      "recipe2": "ad_astra:recipes/desh_cable"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:recipes/wrench"
+    }
+  ]
+}

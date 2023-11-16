@@ -1,0 +1,38 @@
+{
+    "name": "Афікси",
+    "icon": "minecraft:experience_bottle",
+    "category": "apotheosis:adventure/affix_loot",
+    "flag": "apotheosis:adventure",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(6)Aфікс$() - це рушійна сила предметів з афіксами. Кожен афікс дуже схожий на зачарування, що надає певний бонус предмету, до якого він прикріплений.$(p)Ця книга не перелічує всі афікси, але вона допоможе пояснити їх."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Типи афіксів",
+            "text": "Існує кілька різних типів афіксів, кожен з яких має певний набір функціональних можливостей, які він може надати.$(p)Які типи афіксів застосовуються до предмета, залежать від його $(l:apotheosis:adventure/affix_loot/rarities)рідкості$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Афікси статистики",
+            "text": "The most common type of affixes are stat affixes. These affixes provide a simple bonus to a specific attribute, and are available across all rarities.  Higher rarities receive additional stat affixes."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Effect Affixes",
+            "text": "Effect affixes are the most interesting type of affix. They have free range to add all sorts of additional functionality to your items, ranging from simple utility bonuses to strong combat effects.$(p)These can only be found on Rare+ items."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Sockets",
+            "text": "A Socket is a special type of affix that simply provides a vessel for a $(l:apotheosis:adventure/affix_loot/gems)Gem$().$(p)Gems can convey great bonuses, but can be difficult to find."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "The Durability Affix",
+            "text": "The Durability Affix makes an item more resistant to damage, and is present on all Rare+ items.$(p)It applies after all other damage resistances, making it multiplicative with Unbreaking."
+        }
+    ]
+}

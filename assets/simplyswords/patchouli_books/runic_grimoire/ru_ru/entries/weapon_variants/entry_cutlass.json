@@ -1,0 +1,26 @@
+{
+  "name": "Сабля",
+  "icon": "simplyswords:iron_cutlass",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_cutlass",
+      "text": "Сабля предназначена как для режущих, так и для колющих атак, и она широко использовалась в ближнем бою на кораблях и лодках, что делает её грозным оружием для ведения морской боёв. Её изогнутая форма позволяет наносить мощные режущие удары, что делает её эффективной как против плоти, так и против верёвок."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_cutlass",
+      "recipe2": "simplyswords:gold_cutlass"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_cutlass"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_cutlass",
+      "recipe2": "simplyswords:runic_cutlass"
+    }
+  ]
+}

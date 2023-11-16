@@ -1,0 +1,26 @@
+{
+  "name": "Чакрам",
+  "icon": "simplyswords:iron_chakram",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_chakram",
+      "text": "Чакрам — это круглое метательное оружие, которое обычно изготавливается из металла и имеет острый внешний край. При использовании в дуэли чакрам обладает способностью совершать атаки в области, что означает, что он может поражать сразу нескольких врагов вокруг владельца."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_chakram",
+      "recipe2": "simplyswords:gold_chakram"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_chakram"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_chakram",
+      "recipe2": "simplyswords:runic_chakram"
+    }
+  ]
+}

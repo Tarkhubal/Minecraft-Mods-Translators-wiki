@@ -1,0 +1,7 @@
+{
+  "name": "Фрагменты условий",
+  "description": "Фрагменты, которые оценивают условия.",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_block_piece.png",
+  "parent": "pneumaticcraft:programming",
+  "sortnum": 3
+}
