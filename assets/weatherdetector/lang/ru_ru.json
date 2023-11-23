@@ -1,0 +1,1 @@
+{"block.weatherdetector.weather_detector":"Датчик погоды","block.weatherdetector.weather_detector.tooltip_1":"Испускает редстоун-сигнала силой 1-8, если идёт дождь или снег.","block.weatherdetector.weather_detector.tooltip_2":"Испускает редстоун-сигнала силой 9-15 во время грозы.","block.weatherdetector.weather_detector.tooltip_3":"Взаимодействие с датчиком инвертирует сигнал."}

@@ -1,0 +1,15 @@
+{
+  "name": "Кухонная плита из камня лабиринта",
+  "icon": "twilightdelight:maze_stove",
+  "category": "twilightdelight:tricks",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Готовит блюда добавленные в Twilight Forest или Twilight's Flavor & Delight с двойной скоростью."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "twilightdelight:maze_stove"
+	}
+  ]
+}

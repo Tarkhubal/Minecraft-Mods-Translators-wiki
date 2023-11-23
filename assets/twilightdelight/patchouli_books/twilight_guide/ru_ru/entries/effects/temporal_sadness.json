@@ -1,0 +1,16 @@
+{
+  "name": "Временная печаль",
+  "icon": "twilightdelight:teardrop_sword",
+  "category": "twilightdelight:effects",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Этот эффект снижает атаку на 10 пунктов и вдвое уменьшает скорость передвижения существа."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightdelight:teardrop_sword",
+	  "text": "Эффект накладывается с некоторой вероятностью на противников атакованных слезоточивым мечом. А также можно получить выпив напитки или съев блюда с различными частями гаста."
+	}
+  ]
+}

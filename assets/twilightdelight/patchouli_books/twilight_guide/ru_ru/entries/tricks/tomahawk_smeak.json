@@ -1,0 +1,16 @@
+{
+  "name": "Получение томагавкового стейка",
+  "icon": "twilightdelight:raw_tomahawk_smeak",
+  "category": "twilightdelight:tricks",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Вы можете получить томагавковый стейк путём разделывания минотавра и гриботавра с помощью алмазного топора минотавра, с разной вероятностью."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightdelight:raw_tomahawk_smeak",
+	  "text": "Это ингредиент для приготовления супа из минотавра."
+	}
+  ]
+}

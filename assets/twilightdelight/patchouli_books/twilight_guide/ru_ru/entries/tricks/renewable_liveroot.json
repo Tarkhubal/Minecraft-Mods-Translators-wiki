@@ -1,0 +1,12 @@
+{
+  "name": "Получение замшелого корня",
+  "icon": "twilightforest:liveroot",
+  "category": "twilightdelight:tricks",
+  "pages": [
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightforest:liveroot_block",
+	  "text": "Блок корней расположенный рядом с плодородной почвой и блоком замшелых корней со временем прекратиться в блок замшелых корней, это позволяет выращивать замшелые корни сколько угодно."
+	}
+  ]
+}
