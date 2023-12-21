@@ -1,0 +1,19 @@
+{
+  "name": "Полевой жаворонок",
+  "icon": "wildlife:meadowlark",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Птица среднего размера, обитающая на открытых лугах, в прериях, на пастбищах и полях. $(br2) У этих птиц пение, похожее на трели флейты."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/meadowlark.png"],
+      "title": "Полевой жаворонок",
+      "text": "$(br)Полевой жаворонок.",
+      "border": true
+    }
+  ]
+}

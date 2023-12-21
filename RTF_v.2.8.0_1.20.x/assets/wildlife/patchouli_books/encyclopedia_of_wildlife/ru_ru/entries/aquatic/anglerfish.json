@@ -1,0 +1,19 @@
+{
+  "name": "Удильщик",
+  "icon": "wildlife:raw_anglerfish",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Костистая рыба, использующая люминесцентный спинной плавник для приманивания мелких рыб.$(br2)Светящаяся железа рыбы, известная как эска, является переносчиком симбиотических бактерий, которые производят свет.$(br2)Некоторые виды этих бактерий не способны люминесцировать без рыбы-хозяина."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/anglerfish.png"],
+      "title": "Удильщик",
+      "text": "$(br)Удильщик.",
+      "border": true
+    }
+  ]
+}

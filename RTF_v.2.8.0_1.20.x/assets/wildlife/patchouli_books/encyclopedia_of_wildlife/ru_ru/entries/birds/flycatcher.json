@@ -1,0 +1,19 @@
+{
+  "name": "Огненный мухоед",
+  "icon": "wildlife:flycatcher",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эти птицы предпочитают несколько открытые участки и обитают на деревьях или кустарниках в саваннах, кустарниковых зарослях, сельскохозяйственных районах, прибрежных лесах и пустынях (но обычно вблизи воды)."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/flycatcher.png"],
+      "title": "Огненный мухоед",
+      "text": "$(br)Огненный мухоед.",
+      "border": true
+    }
+  ]
+}

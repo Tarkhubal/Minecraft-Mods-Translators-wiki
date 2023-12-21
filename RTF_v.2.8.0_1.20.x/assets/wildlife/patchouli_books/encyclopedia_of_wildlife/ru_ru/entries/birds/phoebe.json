@@ -1,0 +1,19 @@
+{
+  "name": "Феб",
+  "icon": "wildlife:phoebe",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Птица среднего размера, питающаяся насекомыми, часто гнездится на человеческих сооружениях, таких как мосты и здания."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/phoebe.png"],
+      "title": "Феб",
+      "text": "$(br)Феб.",
+      "phoebe": true
+    }
+  ]
+}

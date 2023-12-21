@@ -1,0 +1,19 @@
+{
+  "name": "Муравей",
+  "icon": "wildlife:ant",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Муравьи образуют колонии, размер которых варьируется от нескольких десятков особей до высокоорганизованных колоний численностью в миллионы.$(br2) Муравьи существуют в большинстве экосистем."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/ant.png"],
+      "title": "Муравей",
+      "text": "$(br)Муравей.",
+      "border": true
+    }
+  ]
+}

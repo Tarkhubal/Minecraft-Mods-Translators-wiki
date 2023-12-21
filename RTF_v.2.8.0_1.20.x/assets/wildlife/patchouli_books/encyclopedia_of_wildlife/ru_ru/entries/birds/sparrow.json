@@ -1,0 +1,19 @@
+{
+  "name": "Воробей",
+  "icon": "wildlife:sparrow",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Небольшая социальная певчая птица, обитающая в лесах и полях.$(br2)Она становится стайной на протяжении всего года во время поиска пищи, часто объединяясь с другими видами птиц.$(br2)Это птица-оппортунист, которая часто питается насекомыми и многими другими видами пищи."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/sparrow.png"],
+      "title": "Воробей",
+      "text": "$(br)Воробей.",
+      "border": true
+    }
+  ]
+}

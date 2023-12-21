@@ -1,0 +1,19 @@
+{
+  "name": "Сиалия",
+  "icon": "wildlife:bluebird",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Маленькая, коренастая, общительная птица, которая, как правило, живет на открытой местности вокруг деревьев с небольшим подлеском и редким земельным покровом.$(br2) Иногда они собираются большими стаями, но в зимние месяцы, как правило, территориальны."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/bluebird.png"],
+      "title": "Сиалия",
+      "text": "$(br)Сиалия.",
+      "border": true
+    }
+  ]
+}

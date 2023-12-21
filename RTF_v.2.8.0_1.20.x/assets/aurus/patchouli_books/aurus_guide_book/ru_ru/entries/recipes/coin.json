@@ -1,0 +1,15 @@
+{
+  "name": "Монета",
+  "icon": "aurus:coin",
+  "category": "aurus:recipes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вы можете использовать монеты для покупки вещей!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "aurus:coin"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Светящаяся медуза",
+  "icon": "wildlife:textures/gui/entries/glow_jellyfish.png",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Морская медуза, содержащая флуоресцентные белки, вызывающие биолюминесценцию.$(br2)Большинство светящихся медуз обитают в глубоких океанах, где они питаются планктоном, ракообразными и мелкой рыбой.$(br2)Предполагается, что около 50% медуз обладают биолюминесцентными свойствами."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/glow_jellyfish.png"],
+      "title": "Светящаяся медуза",
+      "text": "$(br)Светящаяся медуза.",
+      "border": true
+    }
+  ]
+}

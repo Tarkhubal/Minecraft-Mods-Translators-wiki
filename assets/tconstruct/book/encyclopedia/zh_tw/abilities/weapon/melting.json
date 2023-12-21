@@ -1,0 +1,1 @@
+{"modifier_id":"tconstruct:melting","text":[{"text":"使工具能將掉落物及殺死的生物熔化後存入工具的儲液槽。對大部分的生物來說,每次擊中產生的最大流體量約為4點傷害。"},{"text":"改造後工具中會增加一個容量為1000mb的儲液槽,手持工具或護甲時可直接對儲液槽方塊倒入或取出流體。","paragraph":true}],"more_text_space":true,"effects":["單一等級","需使用一個能力槽"]}

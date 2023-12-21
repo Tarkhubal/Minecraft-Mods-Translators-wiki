@@ -1,0 +1,19 @@
+{
+  "name": "Амброзиевый листоед",
+  "icon": "wildlife:sunflowerbeetle",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вид жуков-листоедов, питающийся подсолнухами.$(br2)Их жёлтые надкрылья отмечены тремя удлинёнными коричневыми полосками."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/sunflower_beetle.png"],
+      "title": "Амброзиевый листоед",
+      "text": "$(br)Амброзиевый листоед.",
+      "border": true
+    }
+  ]
+}

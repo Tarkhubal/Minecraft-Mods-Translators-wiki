@@ -1,0 +1,20 @@
+{
+  "name": "Насыщенный незеритом самоцвет",
+  "icon": "simplyswords:netherfused_gem",
+  "category": "simplyswords:category_gem_socketing",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:netherfused_gem",
+      "text": "Насыщенный незеритом самоцвет можно получить путём объединения наделённой силой материю и незеритового слитка в столе кузнеца. После идентификации самоцвет получит случайную силу, заключенную в нём."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Насыщенные незеритом самоцветы могут быть инкрустированы в уникальное оружие которое имеет [ Пустое незеритовое гнездо ]."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherfused_gem"
+    }
+  ]
+}

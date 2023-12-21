@@ -1,0 +1,19 @@
+{
+  "name": "Геккон",
+  "icon": "wildlife:gecko",
+  "category": "wildlife:reptiles",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Маленькие, в основном плотоядные ящерицы, которые обитают в тёплом климате по всему миру. $(br2)Они не могут моргать, поэтому при необходимости облизывают собственные роговицы, чтобы очистить их от пыли и сохранить чистыми и влажными. $(br2)У них отличное ночное зрение."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/gecko.png"],
+      "title": "Геккон",
+      "text": "$(br)Геккон.",
+      "border": true
+    }
+  ]
+}

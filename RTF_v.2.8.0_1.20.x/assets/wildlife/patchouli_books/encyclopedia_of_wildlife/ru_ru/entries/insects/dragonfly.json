@@ -1,0 +1,19 @@
+{
+  "name": "Стрекоза",
+  "icon": "wildlife:dragonfly",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Будучи проворными летающими насекомыми, многие стрекозы имеют яркие радужные или металлические оттенки, получаемые за счёт структурной окраски, что делает их заметными в полёте.$(br2)В фасеточных глазах взрослой стрекозы около 24 000 омматидий в каждом."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/dragonfly.png"],
+      "title": "Стрекоза",
+      "text": "$(br)Стрекоза.",
+      "border": true
+    }
+  ]
+}

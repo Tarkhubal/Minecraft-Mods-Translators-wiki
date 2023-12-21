@@ -1,0 +1,19 @@
+{
+  "name": "Муравьед",
+  "icon": "wildlife:textures/gui/entries/anteater.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Широко известные тем, что едят муравьев и термитов, муравьеды имеют удлиненные морды, снабженные тонким языком, который может выходить за пределы длины их головы.$(br2)Муравьеды обладают плохим зрением, но отличным обонянием, и большинство видов зависят от последнего в поиске пищи, кормлении и обороне."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/anteater.png"],
+      "title": "Муравьед",
+      "text": "$(br)Муравьед.",
+      "border": true
+    }
+  ]
+}

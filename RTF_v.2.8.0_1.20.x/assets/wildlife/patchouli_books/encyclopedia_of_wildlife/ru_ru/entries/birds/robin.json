@@ -1,0 +1,19 @@
+{
+  "name": "Зарянка",
+  "icon": "wildlife:robin",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Известные как «друг садовода», зарянки — небольшие, насекомоядные певчие птицы, часто встречающиеся на полях и в лесных районах.$(br2)Эти птицы относительно не боятся людей и известны тем, что приближаются к крупным диким животным, которые роют землю в поисках еды на поверхность."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/robin.png"],
+      "title": "Зарянка",
+      "text": "$(br)Зарянка.",
+      "border": true
+    }
+  ]
+}

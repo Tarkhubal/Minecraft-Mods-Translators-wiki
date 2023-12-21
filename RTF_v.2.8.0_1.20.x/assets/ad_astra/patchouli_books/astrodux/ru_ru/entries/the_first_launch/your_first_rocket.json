@@ -1,0 +1,42 @@
+{
+  "name": "Ваша первая ракета",
+  "icon": "ad_astra:nasa_workbench",
+  "sortnum": 1,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Ракетосборочный верстак",
+      "item": "ad_astra:nasa_workbench",
+      "text": "Чтобы построить ракету, вы должны сначала собрать все детали: головной обтекатель, пластины, стабилизаторы, баки и двигатель. Затем вы можете собрать ракету в ракетосборочном верстаке, созданном специально только для сборки ракет."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ракетосборочный верстак",
+      "recipe": "ad_astra:recipes/nasa_workbench"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "pattern": [
+          [
+            "   ",
+            " 0 ",
+            "   "
+          ]
+        ],
+        "mapping": {
+          "0": "ad_astra:launch_pad"
+        },
+        "symmetrical": true
+      },
+      "text": "Чтобы разместить свою свежесобранную ракету, для начала вы должны создать и разместить пусковую площадку."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Пусковая площадка",
+      "recipe": "ad_astra:recipes/launch_pad",
+      "text": "После того как пусковая площадка будет построена, разместите ракету в её центре."
+    }
+  ]
+}

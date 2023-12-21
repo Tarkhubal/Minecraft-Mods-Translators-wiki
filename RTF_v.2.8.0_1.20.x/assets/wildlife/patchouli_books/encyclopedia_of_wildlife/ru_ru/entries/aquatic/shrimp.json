@@ -1,0 +1,19 @@
+{
+  "name": "Креветка",
+  "icon": "wildlife:raw_shrimp",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Десятиногие ракообразные, которые плавают, отталкиваясь плавниками на нижней стороне живота.$(br2) Благодаря своему широкому распространению и изобилию креветки являются важным источником пищи для крупных животных во многих морских экосистемах."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/shrimp.png"],
+      "title": "Креветка",
+      "text": "$(br)Креветка.",
+      "border": true
+    }
+  ]
+}

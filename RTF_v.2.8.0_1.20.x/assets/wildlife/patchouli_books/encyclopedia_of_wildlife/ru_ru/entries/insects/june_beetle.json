@@ -1,0 +1,19 @@
+{
+  "name": "Июньский жук",
+  "icon": "wildlife:june_beetle",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Известные также как июньские жуки, они являются членами семейства жуков-скарабеев.$(br2)Их естественная диета включает плоды кактусов и сок из пустынных деревьев.$(br2)Они активны днём, часто собираясь в тени деревьев. Предпочитают более влажные районы."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/june_beetle.png"],
+      "title": "Июньский жук",
+      "text": "$(br)Июньский жук.",
+      "border": true
+    }
+  ]
+}

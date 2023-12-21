@@ -1,0 +1,19 @@
+{
+  "name": "Жук-рогач",
+  "icon": "wildlife:staghorn_beetle",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Наземное насекомое с большими и характерными жвалами.$(br2)Обычно они не агрессивны по отношению к людям и иногда содержатся в качестве домашних животных."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/staghorn_beetle.png"],
+      "title": "Жук-рогач",
+      "text": "$(br)Жук-рогач.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Огненный кухонный котёл",
+  "icon": "twilightdelight:fiery_cooking_pot",
+  "category": "twilightdelight:tricks",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Нагревается сам по себе. Готовит блюда добавленные в Twilight Forest или Twilight's Flavor & Delight в течение 10 секунд, если нужно больше. Скорость готовки можно ускорить до 5 секунд, разместив его на кухонной плите из камня лабиринта."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "twilightdelight:fiery_cooking_pot"
+	}
+  ]
+}

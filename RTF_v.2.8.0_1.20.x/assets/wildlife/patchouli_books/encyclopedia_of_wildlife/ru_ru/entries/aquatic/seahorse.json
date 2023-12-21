@@ -1,0 +1,19 @@
+{
+  "name": "Морской конёк",
+  "icon": "wildlife:textures/gui/entries/seahorse.png",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Морских коньков, названных так из-за их характерных головы и шеи, можно найти прячущимися среди зарослей морской травы, коралловых рифов и мангровых зарослей.$(br2)Они очень плохо плавают, полагаются на скрытность и маскировку, чтобы нападать на мелкую добычу исподтишка. Поскольку они плохие пловцы, их часто можно найти отдыхающими, обмотав свой цепкий хвост вокруг неподвижного предмета."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/seahorse.png"],
+      "title": "Морской конёк",
+      "text": "$(br)Морской конёк.",
+      "border": true
+    }
+  ]
+}

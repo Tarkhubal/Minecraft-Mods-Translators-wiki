@@ -1,0 +1,12 @@
+礦石
+挖吧挖吧挖洞吧
+<&alu>§l鋁土礦石§r能在主世界<config;i;ores.bauxite.min_y>到<config;i;ores.bauxite.max_y>層找到，需要用石鎬開採。
+這種礦物能冶煉出鋁錠，與鋼一同加工能做出高壓電線。
+<&lead>§l鉛礦石§r能在主世界<config;i;ores.lead.min_y>到<config;i;ores.lead.max_y>層找到，需要用鐵鎬開採。
+這種礦物能冶煉出鉛錠，用來製作電容。
+<&silver>§l銀礦石§r能在主世界<config;i;ores.silver.min_y>到<config;i;ores.silver.max_y>層找到，需要用鐵鎬開採。
+這種礦物能冶煉出銀錠，與黃金一同加工能做出琥珀金，它是一種更為高效的導體。
+<&nickel>§l鎳礦石§r能在主世界<config;i;ores.nickel.min_y>到<config;i;ores.nickel.max_y>層找到，需要用鐵鎬開採。
+這種礦物能冶煉出鎳錠，與銅錠一同加工能做出康銅，用於製作<link;thermoelectric;熱傳導發電機;start>中的耐熱導線。
+<&uranium>§l鈾礦石§r能在主世界<config;i;ores.uranium.min_y>到<config;i;ores.uranium.max_y>層找到，需要用鐵鎬開採。
+這些礦石能冶煉出鈾錠，但目前這種金屬的用途並不多。<br> 鈾塊可作為<link;thermoelectric;熱傳導發電機;start>的燃料，未來將有更多用途。

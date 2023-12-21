@@ -1,0 +1,20 @@
+{
+  "name": "Копьё",
+  "icon": "aurus:spear",
+  "category": "aurus:recipes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Копьё — ваше основное оружие для самозащиты в [ОТРЕДАКТИРОВАНО]"
+    },
+    {
+      "type": "aurus:upgrader_template",
+      "output_slot": "aurus:spear",
+      "input_slot_recipe": "minecraft:stick",
+      "input_slot_1": "aurus:quartz_fragment",
+      "input_slot_2": "minecraft:copper_ingot",
+      "input_slot_3": "minecraft:iron_ingot",
+      "input_slot_4": "minecraft:copper_ingot"
+    }
+  ]
+}

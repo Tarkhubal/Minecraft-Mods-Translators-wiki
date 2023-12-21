@@ -1,0 +1,19 @@
+{
+  "name": "Белоглазый виреон",
+  "icon": "wildlife:white_eye",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Маленькая певчая птичка, обычно встречающаяся на полях и болотах."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/white_eye.png"],
+      "title": "Белоглазый виреон",
+      "text": "$(br)Белоглазый виреон.",
+      "border": true
+    }
+  ]
+}

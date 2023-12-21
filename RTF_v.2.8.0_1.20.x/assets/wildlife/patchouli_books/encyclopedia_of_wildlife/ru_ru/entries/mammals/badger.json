@@ -1,0 +1,19 @@
+{
+  "name": "Барсук",
+  "icon": "wildlife:textures/gui/entries/badger.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Барсуки — коротконогие всеядные животные, которые обитают под землёй, живя в норах, они могут быть очень обширными. $(br2)Этот вид предпочитает районы, такие как степные регионы с песчано-иловыми почвами, где легко копать."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/badger.png"],
+      "title": "Барсук",
+      "text": "$(br)Барсук.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Медуза",
+  "icon": "wildlife:textures/gui/entries/jellyfish.png",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Морские медузы - это свободно плавающие морские животные с витающими щупальцами, которые обитают в океанах по всему миру.$(br2)Уникальная анатомия делает их одними из самых энергоэффективных пловцов среди всех животных. Они охотятся пассивно, используя свои щупальца для оглушения и/или убийства добычи.$(br2)При благоприятных условиях медузы могут формировать огромные стаи, известные как цветения."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/jellyfish.png"],
+      "title": "Медуза",
+      "text": "$(br)Медуза.",
+      "border": true
+    }
+  ]
+}

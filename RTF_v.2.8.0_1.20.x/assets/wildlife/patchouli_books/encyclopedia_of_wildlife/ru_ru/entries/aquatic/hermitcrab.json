@@ -1,0 +1,19 @@
+{
+  "name": "Рак-отшельник",
+  "icon": "wildlife:hermitcrab",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Небольшой рак, который защищает своё мягкое брюшко, используя найденные пустые раковины моллюска.$(br2)По мере роста рака-отшельника, им требуются более крупные раковины.$(br2)Известно, что они формируют «цепочки свободных жилищ» для обмена раковинами."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/hermitcrab.png"],
+      "title": "Рак-отшельник",
+      "text": "$(br)Рак-отшельник.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+
+intro=介紹
+
+alloyer=合金爐
+
+foundry=鑄造爐
+
+blazing_blood=烈焰漿
+
+armor=金屬板護甲
+armor.subtext=護甲是在§l合成工作臺§r上製作, 而非§l打鐵組裝臺§r或§l加工臺§r。 堅硬的金屬板護甲擁有較高的防護力,但是改造空間就比較少了,反正要是能有好的保護,誰還需要那些額外的改造？
+
+melee_harvest_materials=四級近戰收割材料
+melee_harvest_materials.subtext=這些需用烈焰漿所製的材料能鑄造成近戰武器或收割工具的部件。
+ranged_materials=四級遠程武器材料
+ranged_materials.subtext=這些需用烈焰漿所製的材料能鑄造成諸如弓之類的遠程武器部件。

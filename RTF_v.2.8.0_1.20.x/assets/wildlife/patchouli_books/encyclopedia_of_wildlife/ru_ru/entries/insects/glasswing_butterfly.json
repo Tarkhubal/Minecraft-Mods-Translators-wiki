@@ -1,0 +1,19 @@
+{
+  "name": "Стеклянная бабочка",
+  "icon": "wildlife:glasswing_butterfly",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Разновидность кистенекрылых бабочек, известна под общим названием «стеклянная бабочка» за свои прозрачные крылья, которые позволяют ей маскироваться без интенсивной окраски.$(br2) Несмотря на то, что её крылья кажутся хрупкими, бабочка способна переносить вес, в 40 раз превышающий её собственный."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/glasswing_butterfly.png"],
+      "title": "Стеклянная бабочка",
+      "text": "$(br)Стеклянная бабочка.",
+      "border": true
+    }
+  ]
+}

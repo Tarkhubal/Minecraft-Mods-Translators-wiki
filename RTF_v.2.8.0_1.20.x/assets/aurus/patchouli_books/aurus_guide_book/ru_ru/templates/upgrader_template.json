@@ -1,0 +1,46 @@
+{
+  "components": [
+    {
+      "type": "patchouli:item",
+      "item": "#output_slot#",
+      "framed": "true",
+      "x": 50,
+      "y": 59
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#input_slot_recipe#",
+      "framed": "true",
+      "x": 50,
+      "y": 11
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#input_slot_1#",
+      "framed": "true",
+      "x": 10,
+      "y": 14
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#input_slot_2#",
+      "framed": "true",
+      "x": 10,
+      "y": 57
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#input_slot_3#",
+      "framed": "true",
+      "x": 90,
+      "y": 14
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#input_slot_4#",
+      "framed": "true",
+      "x": 90,
+      "y": 57
+    }
+  ]
+}

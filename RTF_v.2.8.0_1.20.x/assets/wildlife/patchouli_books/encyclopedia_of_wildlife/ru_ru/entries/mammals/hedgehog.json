@@ -1,0 +1,19 @@
+{
+  "name": "Ёж",
+  "icon": "wildlife:hedgehog",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Маленькие колючие млекопитающие, ежи могут сворачиваться в клубок для самозащиты. $(br2)Они всеядны, питаются насекомыми, улитками, лягушками и жабами, змеями, птичьими яйцами, падалью, грибами, кореньями трав, ягодами, дынями и арбузами.$(br2) Ежи обладают естественным иммунитетом против определённых видов змеиного яда."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/hedgehog.png"],
+      "title": "Ёж",
+      "text": "$(br)Ёж.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Сверчок",
+  "icon": "wildlife:cricket",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Крупный вид кустарниковых сверчков. В отличие от кузнечиков, эти сверчки активны как днём, так и ночью.$(br2)Они могут летать, но, как правило, избегают полётов там, где это возможно.$(br2)Чаще всего они передвигаются «пешком» или прыжками, что позволяет им передвигаться по кустам и деревьям."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/cricket.png"],
+      "title": "Сверчок",
+      "text": "$(br)Сверчок.",
+      "border": true
+    }
+  ]
+}

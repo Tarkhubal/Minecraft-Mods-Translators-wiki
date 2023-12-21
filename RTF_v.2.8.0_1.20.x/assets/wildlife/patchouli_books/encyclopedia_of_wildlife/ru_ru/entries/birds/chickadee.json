@@ -1,0 +1,19 @@
+{
+  "name": "Черношапочная гаичка",
+  "icon": "wildlife:chickadee",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Небольшая, не мигрирующая певчая птица, обитающая в лиственных и смешанных лесах. $(br2) Вокализация этих птиц очень сложна."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/chickadee.png"],
+      "title": "Черношапочная гаичка",
+      "text": "$(br)Черношапочная гаичка.",
+      "border": true
+    }
+  ]
+}

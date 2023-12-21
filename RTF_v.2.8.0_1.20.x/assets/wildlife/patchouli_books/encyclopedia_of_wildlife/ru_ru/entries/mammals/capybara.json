@@ -1,0 +1,19 @@
+{
+  "name": "Капибара",
+  "icon": "wildlife:textures/gui/entries/capybara.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Полуводные млекопитающие, обитающие в густонаселенных районах вблизи водоёмов.$(br2)Они являются высокообщественными видами и часто образуют большие группы особей.$(br2)Они являются самыми крупными из всех видов грызунов."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/capybara.png"],
+      "title": "Капибара",
+      "text": "Капибара.$(br2)$(o)Особая благодарность @Zura!$()",
+      "border": true
+    }
+  ]
+}

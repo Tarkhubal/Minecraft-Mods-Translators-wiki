@@ -1,0 +1,19 @@
+{
+  "name": "Опоссум",
+  "icon": "wildlife:textures/gui/entries/possum.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Маленькие полудревесные сумчатые с цепкими хвостами. $(br2)Опоссумы обычно ведут одиночный и кочевой образ жизни, оставаясь на одном участке до тех пор, пока легко доступны пища и вода. $(br2)Они временно занимают заброшенные норы, но не прилагают особых усилий для строительства своих собственных. $(br2)Известно, что они притворяются мёртвыми, когда им угрожает опасность."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/possum.png"],
+      "title": "Опоссум",
+      "text": "$(br)Опоссум.",
+      "border": true
+    }
+  ]
+}

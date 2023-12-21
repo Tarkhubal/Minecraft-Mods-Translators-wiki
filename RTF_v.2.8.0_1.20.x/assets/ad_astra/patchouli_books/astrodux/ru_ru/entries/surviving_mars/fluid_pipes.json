@@ -1,0 +1,24 @@
+{
+  "name": "Жидкостные трубы",
+  "icon": "ad_astra:ostrum_fluid_pipe",
+  "sortnum": 1,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Жидкостные трубы",
+      "item": "ad_astra:ostrum_fluid_pipe",
+      "text": "Жидкостные трубы аналогичны кабелям, но передают жидкости вместо энергии. Чтобы использовать их, создайте несколько жидкостных труб и гаечный ключ. После чего, держа гаечный ключ нажмите [ПКМ] по трубе, чтобы переключить режимы работы трубы: \"нет\", \"обычный\", \"ввод\", \"вывод\"."
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "Трубы в режиме работы \"ввод\" будут получать жидкость из сети, а в режиме работы \"вывод\" будут перекачивать жидкость в сеть.",
+      "recipe": "ad_astra:recipes/desh_fluid_pipe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:recipes/ostrum_fluid_pipe",
+      "recipe2": "ad_astra:recipes/wrench"
+    }
+  ]
+}

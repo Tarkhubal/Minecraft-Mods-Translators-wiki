@@ -1,0 +1,19 @@
+{
+  "name": "Жук-носорог",
+  "icon": "wildlife:rhino_beetle",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Жуки-носороги — один из крупнейших видов жуков. Несмотря на свои крупные размеры, они совершенно безвредны для человека.$(br2)Рога используются в борьбе и для рытья. Размер рога является хорошим показателем питания и физического здоровья."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/rhino_beetle.png"],
+      "title": "Жук-носорог",
+      "text": "$(br)Жук-носорог.",
+      "border": true
+    }
+  ]
+}

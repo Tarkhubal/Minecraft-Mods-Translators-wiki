@@ -1,0 +1,19 @@
+{
+  "name": "Бобр",
+  "icon": "wildlife:textures/gui/entries/beaver.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Крупные полуводные грызуны, которых можно встретить в ряде пресноводных местообитаний, таких как реки, ручьи, озера и пруды.$(br2)У них массивные черепа, приспособленные для того, чтобы выдерживать усилия, создаваемые их мощными жевательными мышцами.$(br2)Их четыре резца в форме долота растут непрерывно."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/beaver.png"],
+      "title": "Бобр",
+      "text": "$(br)Бобр.",
+      "border": true
+    }
+  ]
+}

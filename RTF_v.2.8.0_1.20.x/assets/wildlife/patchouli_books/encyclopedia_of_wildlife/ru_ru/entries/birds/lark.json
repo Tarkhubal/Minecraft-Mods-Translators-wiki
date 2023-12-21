@@ -1,0 +1,19 @@
+{
+  "name": "Жаворонковая овсянка",
+  "icon": "wildlife:lark",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Среднего размера перелётная птица из вида воробьиных, обычно обитающая на лугах.$(br2)Они в основном добывают пищу на земле, питаясь насекомыми летом и семенами зимой."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/lark.png"],
+      "title": "Жаворонковая овсянка",
+      "text": "$(br)Жаворонковая овсянка.",
+      "border": true
+    }
+  ]
+}

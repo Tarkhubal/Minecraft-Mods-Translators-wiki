@@ -1,0 +1,19 @@
+{
+  "name": "Бабочка монарх",
+  "icon": "wildlife:monarch_butterfly",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Примечательна своей ежегодной инстинктивной миграцией на юг: этот вид преодолевает тысячи миль осенью и возвращается на север в течение нескольких поколений.$(br2)Поскольку гусеницы питаются ваточником, бабочки монархи токсичны и имеют неприятный вкус."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/monarch_butterfly.png"],
+      "title": "Бабочка монарх",
+      "text": "$(br)Бабочка монарх.",
+      "border": true
+    }
+  ]
+}

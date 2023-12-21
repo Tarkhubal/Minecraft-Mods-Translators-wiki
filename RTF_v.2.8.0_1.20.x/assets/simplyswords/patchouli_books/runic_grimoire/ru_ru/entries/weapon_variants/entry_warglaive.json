@@ -1,0 +1,26 @@
+{
+  "name": "Боевой клинок",
+  "icon": "simplyswords:iron_warglaive",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_warglaive",
+      "text": "Боевые клинки известны своей скоростью, а благодаря своим острым, как бритва, лезвиям они могут наносить быстрые и смертельные удары. Для эффективного владения ими требуется высокий уровень ловкости и мастерства, но при правильном использовании они могут быть очень эффективны в бою."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_warglaive",
+      "recipe2": "simplyswords:gold_warglaive"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_warglaive"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_warglaive",
+      "recipe2": "simplyswords:runic_warglaive"
+    }
+  ]
+}

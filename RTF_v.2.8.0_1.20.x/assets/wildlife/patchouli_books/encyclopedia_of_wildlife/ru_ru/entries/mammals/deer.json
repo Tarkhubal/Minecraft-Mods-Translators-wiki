@@ -1,0 +1,19 @@
+{
+  "name": "Олень",
+  "icon": "wildlife:textures/gui/entries/deer.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Копытные жвачные млекопитающие, обитающие в смешанных лиственных лесах умеренного пояса и горных смешанных хвойных лесах.$(br2)Окрас шерсти обычно варьируется от красного до коричневого.$(br2)Олени — отличные прыгуны и пловцы."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/deer.png"],
+      "title": "Олень",
+      "text": "$(br)Олень.",
+      "border": true
+    }
+  ]
+}

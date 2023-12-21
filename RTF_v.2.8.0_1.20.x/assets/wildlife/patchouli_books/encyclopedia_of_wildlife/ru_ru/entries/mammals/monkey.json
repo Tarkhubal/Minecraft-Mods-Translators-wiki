@@ -1,0 +1,19 @@
+{
+  "name": "Обезьяна",
+  "icon": "wildlife:textures/gui/entries/monkey.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Обитающие в тропических регионах приматы, живущие на деревьях. $(br2)У них цепкие хвосты, которые они используют для передвижения по своим древесным местообитаниям. $(br2)Они собирают фрукты в верхних ярусах леса."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/monkey.png"],
+      "title": "Обезьяна",
+      "text": "$(br)Обезьяна.",
+      "border": true
+    }
+  ]
+}

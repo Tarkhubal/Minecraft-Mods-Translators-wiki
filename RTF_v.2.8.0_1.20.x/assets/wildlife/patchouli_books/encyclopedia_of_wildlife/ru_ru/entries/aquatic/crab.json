@@ -1,0 +1,19 @@
+{
+  "name": "Краб",
+  "icon": "wildlife:crab",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Крупный полутерриториальный краб, обитающий вдоль береговых линий, может копать норы для укрытия от солнца.$(br2)Они являются всеядными падальщиками, поедая мертвую падаль и мусор."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/crab.png"],
+      "title": "Краб",
+      "text": "$(br)Краб.",
+      "border": true
+    }
+  ]
+}

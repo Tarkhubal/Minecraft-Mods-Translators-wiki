@@ -1,0 +1,48 @@
+{
+  "name": "Улучшения",
+  "icon": "aurus:diving_upgrade",
+  "category": "aurus:recipes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Водолазное улучшение — базовый материал для создания улучшений водолазного костюма!"
+    },
+    {
+      "type": "aurus:upgrader_template",
+      "output_slot": "aurus:diving_upgrade",
+      "input_slot_recipe": "minecraft:copper_ingot",
+      "input_slot_1": "minecraft:iron_ingot",
+      "input_slot_2": "minecraft:green_dye",
+      "input_slot_3": "minecraft:gold_ingot",
+      "input_slot_4": "aurus:quartz_fragment"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Улучшение: Ночное зрение",
+      "text": "Ночное зрение — улучшение для водолазного костюма, его можно установить в водолазный шлем, чтобы получить ночное зрение!"
+    },
+    {
+      "type": "aurus:upgrader_template",
+      "output_slot": "aurus:night_vision_diving_upgrade",
+      "input_slot_recipe": "aurus:diving_upgrade",
+      "input_slot_1": "minecraft:ender_pearl",
+      "input_slot_2": "minecraft:blaze_powder",
+      "input_slot_3": "minecraft:quartz",
+      "input_slot_4": "minecraft:copper_ingot"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Улучшение: Водное дыхание",
+      "text": "Водное дыхание — улучшение для водолазного костюма, его можно установить в водолазный шлем, чтобы получить водное дыхание!"
+    },
+    {
+      "type": "aurus:upgrader_template",
+      "output_slot": "aurus:water_breathing_diving_upgrade",
+      "input_slot_recipe": "aurus:diving_upgrade",
+      "input_slot_1": "minecraft:glass_bottle",
+      "input_slot_2": "minecraft:iron_ingot",
+      "input_slot_3": "minecraft:quartz",
+      "input_slot_4": "minecraft:copper_ingot"
+    }
+  ]
+}

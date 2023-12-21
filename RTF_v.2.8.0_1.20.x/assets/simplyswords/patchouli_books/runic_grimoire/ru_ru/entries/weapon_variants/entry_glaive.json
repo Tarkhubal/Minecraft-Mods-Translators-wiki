@@ -1,0 +1,26 @@
+{
+  "name": "Глефа",
+  "icon": "simplyswords:iron_glaive",
+  "category": "simplyswords:category_weapon_variants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:iron_glaive",
+      "text": "Глефа - это разновидность древкового оружия, которое состоит из клинка с односторонним лезвием, установленного на конце длинного древка, идеально подходящего для рубящих атак. Конструкция глефы позволяет использовать её на большом расстоянии в бою, что делает её полезной как для нападения, так и для защиты."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:iron_glaive",
+      "recipe2": "simplyswords:gold_glaive"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:diamond_glaive"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "simplyswords:netherite_glaive",
+      "recipe2": "simplyswords:runic_glaive"
+    }
+  ]
+}

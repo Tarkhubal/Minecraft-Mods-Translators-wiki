@@ -1,0 +1,19 @@
+{
+  "name": "Скат",
+  "icon": "wildlife:textures/gui/entries/stingray.png",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Обычно встречаются в прибрежных морских водах по всему миру, их сплюснутые тела хорошо приспособлены для скрытия под песком на морском дне.$(br2)В то время как большинство скатов питаются моллюсками, ракообразными и мелкой рыбой, следует быть осторожным, чтобы не наступить на них случайно, поскольку они могут ударить своими острыми хвостовыми шипами в случае провокации."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/stingray.png"],
+      "title": "Скат",
+      "text": "$(br)Скат.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ласточка",
+  "icon": "wildlife:swallow",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Птица предпочитающая открытую местность, живущая в тесном контакте с людьми.$(br2)Она строит гнездо из глиняных глыб в амбарах или подобных сооружениях и питается насекомыми, пойманными в полёте."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/swallow.png"],
+      "title": "Ласточка",
+      "text": "$(br)Ласточка.",
+      "border": true
+    }
+  ]
+}

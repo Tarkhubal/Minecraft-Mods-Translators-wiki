@@ -1,0 +1,15 @@
+
+intro=介紹
+
+melee_harvest_materials=一級近戰收割材料
+melee_harvest_materials.subtext=這些材料能放入部件製作臺以製作近戰武器或收割工具的部件。
+ranged_materials=一級遠程武器材料
+ranged_materials.subtext=這些材料能放入部件製作臺以製作諸如弓之類的遠程武器部件。
+
+tools=工具
+
+armor=旅行者裝
+armor.subtext=旅行者裝是用合成工作臺來製作！ 這套服裝雖然防禦力沒有很好, 但是仍有很多升級的空間！ 嘿,看看你能做出什麼樣的服裝？
+
+modifiers=改造
+further_reading=延伸閱讀

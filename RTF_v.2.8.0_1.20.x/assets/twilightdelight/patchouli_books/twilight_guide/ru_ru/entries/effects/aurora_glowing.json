@@ -1,0 +1,16 @@
+{
+  "name": "Свечение Авроры",
+  "icon": "twilightforest:aurora_block",
+  "category": "twilightdelight:effects",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Этот эффект заставьте вас и всех существ, которых вы видите, светиться цветами радуги, включая предметы.$(br2)С его помощью можно находить врагов за стенами, брошенные предметы и подземные пещеры."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "twilightforest:aurora_block",
+	  "text": "Эффект можно получить выпив напитки или съев блюда из блока Авроры."
+	}
+  ]
+}

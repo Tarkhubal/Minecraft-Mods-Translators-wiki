@@ -1,0 +1,1 @@
+{"title":"鑄造爐","subText":"沒什麼比鑄造爐更神奇的了！","hidden":["structurereq","fgui2"],"operations":[{"before":"features","action":"add_group","data":"細節"},{"before":"scorched_tanks","action":"column_break"},{"before":"scorched_tanks","action":"add_group","data":"方塊"}]}

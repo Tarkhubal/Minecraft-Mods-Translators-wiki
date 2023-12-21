@@ -1,0 +1,19 @@
+{
+  "name": "Щегол",
+  "icon": "wildlife:goldfinch",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Социальная птица, которая, как известно, собирается в большие стаи во время кормления и миграции.$(br2)Иногда они проявляют территориальное поведение во время строительства гнезда, но эта агрессия краткосрочна."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/goldfinch.png"],
+      "title": "Щегол",
+      "text": "$(br)Щегол.",
+      "border": true
+    }
+  ]
+}

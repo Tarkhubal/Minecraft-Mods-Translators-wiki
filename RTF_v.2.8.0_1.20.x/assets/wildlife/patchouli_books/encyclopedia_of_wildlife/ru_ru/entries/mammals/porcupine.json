@@ -1,0 +1,19 @@
+{
+  "name": "Дикобраз",
+  "icon": "wildlife:textures/gui/entries/porcupine.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Крупные грызуны с шерстью из острых шипов, или игл, которые защищают их от хищников.$(br2) При рождении иглы дикобраза мягкие, но в течение нескольких дней затвердевают, образуя острые иглы взрослых особей. $(br2)Дикобразы являются рекордсменами по продолжительности жизни среди грызунов."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/porcupine.png"],
+      "title": "Дикобраз",
+      "text": "$(br)Дикобраз.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Фрагменты взаимодействующие с миром",
+  "description": "Фрагменты, которые каким-либо образом взаимодействуют с миром.",
+  "icon": "pneumaticcraft:textures/progwidgets/dig_piece.png",
+  "parent": "pneumaticcraft:programming",
+  "sortnum": 2
+}

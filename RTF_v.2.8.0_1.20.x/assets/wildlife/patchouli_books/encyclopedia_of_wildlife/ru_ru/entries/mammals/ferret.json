@@ -1,0 +1,19 @@
+{
+  "name": "Хорёк",
+  "icon": "wildlife:ferret",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Маленькие, подвижные млекопитающие, хорьки устраивают свои жилища на травянистых участках. $(br2)У них может быть несколько логовищ, распределенных по всей их территории. $(br2)Их зимняя шерсть мягкая и густая, с коротким, плотным подшёрстком и длинными, редкими остевыми волосками."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/ferret.png"],
+      "title": "Хорёк",
+      "text": "$(br)Хорёк.",
+      "border": true
+    }
+  ]
+}

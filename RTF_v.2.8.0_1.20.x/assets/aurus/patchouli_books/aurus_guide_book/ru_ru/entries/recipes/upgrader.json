@@ -1,0 +1,15 @@
+{
+  "name": "Верстак улучшений",
+  "icon": "aurus:upgrader",
+  "category": "aurus:recipes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Верстак улучшений может быть использован для создания улучшений водолазного костюма!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "aurus:upgrader_recipe"
+    }
+  ]
+}

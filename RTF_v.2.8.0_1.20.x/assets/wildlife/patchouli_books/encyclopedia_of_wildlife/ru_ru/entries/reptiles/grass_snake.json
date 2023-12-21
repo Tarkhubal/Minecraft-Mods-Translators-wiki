@@ -1,0 +1,19 @@
+{
+  "name": "Кустарниковый зелёный уж",
+  "icon": "wildlife:grass_snake",
+  "category": "wildlife:reptiles",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ярко зелёная змея, обитающая в лугах и лесах, часто у воды.$(br2)Она в основном древесная и часто встречается на низкой растительности.$(br2)В общем, это довольно спокойный вид, эти небольшие змеи охотятся на насекомых и различных наземных членистоногих."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/grass_snake.png"],
+      "title": "Кустарниковый зелёный уж",
+      "text": "$(br)Кустарниковый зелёный уж.",
+      "border": true
+    }
+  ]
+}

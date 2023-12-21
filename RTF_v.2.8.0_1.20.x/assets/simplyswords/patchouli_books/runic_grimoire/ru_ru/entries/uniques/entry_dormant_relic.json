@@ -1,0 +1,23 @@
+{
+  "name": "Дремлющая реликвия",
+  "icon": "simplyswords:dormant_relic",
+  "advancement": "simplyswords:dormant_relic",
+  "category": "simplyswords:category_unique_weapons",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "simplyswords:dormant_relic",
+      "text": "Дремлющая реликвия — это необычный меч, хранящий в своём лезвии тайну. На первый взгляд, это обычный и ничем не примечательный меч, но в нём скрыта дремлющая энергия, которую необходимо пробудить путём создания нового оружия на верстаке."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:righteous_relic",
+      "recipe2": "simplyswords:tainted_relic"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "simplyswords:sunfire",
+      "recipe2": "simplyswords:harbinger"
+    }
+  ]
+}

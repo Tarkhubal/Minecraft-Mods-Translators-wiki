@@ -1,0 +1,19 @@
+{
+  "name": "Молотоголовая акула",
+  "icon": "wildlife:textures/gui/entries/hammerhead_shark.png",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Получившие своё имя из-за характерной формы головы, эти акулы встречаются в тёплых водах вдоль берегов.$(br2)Считается, что их голова-молот оказывает влияние на ощущение, маневрирование и охоту.$(br2)В отличие от других видов акул, некоторые молотоголовые акулы формируют стаи днем."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/hammerhead_shark.png"],
+      "title": "Молотоголовая акула",
+      "text": "$(br)Молотоголовая акула.",
+      "border": true
+    }
+  ]
+}

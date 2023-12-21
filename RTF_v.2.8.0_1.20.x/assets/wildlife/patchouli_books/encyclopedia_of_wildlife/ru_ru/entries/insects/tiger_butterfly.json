@@ -1,0 +1,19 @@
+{
+  "name": "Бабочка парусник главк",
+  "icon": "wildlife:tiger_butterfly",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эти крупные бабочки ярко окрашены, у них жёлтые крылья с яркими чёрными полосами.$(br2)Вид очень активных бабочек, которых редко можно увидеть в состоянии покоя, известно, что взрослые особи летают высоко над землёй, обычно над кронами деревьев."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/tiger_butterfly.png"],
+      "title": "Бабочка парусник главк",
+      "text": "$(br)Бабочка парусник главк.",
+      "border": true
+    }
+  ]
+}

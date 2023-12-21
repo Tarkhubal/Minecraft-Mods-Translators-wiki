@@ -1,0 +1,16 @@
+{
+  "name": "Осколок кварца",
+  "icon": "minecraft:quartz",
+  "category": "aurus:recipes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Из кварца можно сделать осколки кварца и наоборот!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "aurus:quartz_to_quartz_fragment",
+      "recipe2": "aurus:quartz"
+    }
+  ]
+}

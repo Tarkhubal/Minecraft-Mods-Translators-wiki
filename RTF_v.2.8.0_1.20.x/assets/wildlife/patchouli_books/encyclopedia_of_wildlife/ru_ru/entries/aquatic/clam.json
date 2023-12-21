@@ -1,0 +1,19 @@
+{
+  "name": "Моллюск",
+  "icon": "wildlife:raw_clam",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Съедобные двустворчатые моллюски, обитающие в самых различных средах, включая пресноводные и морские местообитания.$(br2)Большинство видов моллюсков проводят свою жизнь, зарытые в песок морского дна или речного дна, где они фильтруют пищу из воды."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/clam.png"],
+      "title": "Моллюск",
+      "text": "$(br)Моллюск.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Кислородный баллон",
+  "icon": "aurus:tank",
+  "category": "aurus:recipes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Создаваемый предмет."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "aurus:tank_recipe"
+    }
+  ]
+}

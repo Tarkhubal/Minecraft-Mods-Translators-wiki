@@ -1,0 +1,19 @@
+{
+  "name": "Синежаберный солнечник",
+  "icon": "wildlife:raw_bluegill",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Обычная рыба, которую можно встретить на мелководье многих пресноводных озёр и прудов.$(br2) Их рацион состоит практически из всего, что они могут поместить в рот, как правило, из насекомых и мелкой рыбы.$(br2) Их также иногда называют «лещ», «солнечник», «длиннопёрый» или «окунь»."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/bluegill.png"],
+      "title": "Синежаберный солнечник",
+      "text": "$(br)Синежаберный солнечник.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Паук",
+  "icon": "wildlife:spider",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Воздушно-дышащий членистоногий с восемью ногами, ядовитыми клыками и паутинными бородавками, выделяющими шёлк.$(br2)Большинство обнаруживает добычу, чувствуя вибрации, но у некоторых видов, являющихся активными охотниками, есть прекрасное зрение."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/spider.png"],
+      "title": "Паук",
+      "text": "$(br)Паук.",
+      "border": true
+    }
+  ]
+}

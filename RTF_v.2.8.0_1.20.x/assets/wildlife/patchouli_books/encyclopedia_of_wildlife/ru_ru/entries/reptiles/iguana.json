@@ -1,0 +1,19 @@
+{
+  "name": "Игуана",
+  "icon": "wildlife:textures/gui/entries/iguana.png",
+  "category": "wildlife:reptiles",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Травоядная ящерица, обитающая в тропических районах и питающаяся исключительно растительностью и листвой.$(br2)Они обладают острым зрением и могут различать формы, тени, цвета и движение на больших расстояниях. Острота зрения позволяет им ориентироваться в густых лесах и находить пищу."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/iguana.png"],
+      "title": "Игуана",
+      "text": "$(br)Игуана.",
+      "border": true
+    }
+  ]
+}

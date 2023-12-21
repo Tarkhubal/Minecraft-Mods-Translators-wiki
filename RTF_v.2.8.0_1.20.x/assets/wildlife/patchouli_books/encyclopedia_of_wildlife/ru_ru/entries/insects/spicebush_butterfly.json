@@ -1,0 +1,19 @@
+{
+  "name": "Бабочка парусник троил",
+  "icon": "wildlife:spicebush_butterfly",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Парусник троил — это распространенная бабочка из семейства парусники.$(br2)В отличие от других парусников, они летают низко над землёй, а не на большой высоте.$(br2)Их более темное тело и окраска крыльев помогают им поддерживать температурный режим, что позволяет летать и питаться при более низких температурах."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/spicebush_butterfly.png"],
+      "title": "Бабочка парусник троил",
+      "text": "$(br)Бабочка парусник троил.",
+      "border": true
+    }
+  ]
+}

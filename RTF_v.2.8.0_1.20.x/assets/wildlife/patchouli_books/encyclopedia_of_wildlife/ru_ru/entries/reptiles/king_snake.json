@@ -1,0 +1,19 @@
+{
+  "name": "Королевская змея",
+  "icon": "wildlife:king_snake",
+  "category": "wildlife:reptiles",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Длинная змея, которая предпочитает открытые участки, особенно луга, но также известно, что она обитает в пустынях и болотах.$(br2)Королевские змеи невосприимчивы ко многим видам змеиного яда и регулярно охотятся на другие виды змей."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/king_snake.png"],
+      "title": "Королевская змея",
+      "text": "$(br)Королевская змея.",
+      "border": true
+    }
+  ]
+}

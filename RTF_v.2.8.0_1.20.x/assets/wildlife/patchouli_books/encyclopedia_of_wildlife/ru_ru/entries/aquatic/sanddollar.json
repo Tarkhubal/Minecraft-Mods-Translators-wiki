@@ -1,0 +1,19 @@
+{
+  "name": "Щитообразный морской ёж",
+  "icon": "wildlife:sanddollar",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Щитообразный морской ёж — это вид плоских морских ежей, которые копаются в мелком песке. Их тело покрыто тонкими иглами, которые позволяют им передвигаться по дну океана, где они поедают водоросли.$(br2)Личинки щитообразного морского ежа способны клонировать сами себя, разделяясь пополам."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/sanddollar.png"],
+      "title": "Щитообразный морской ёж",
+      "text": "$(br)Щитообразный морской ёж.",
+      "border": true
+    }
+  ]
+}

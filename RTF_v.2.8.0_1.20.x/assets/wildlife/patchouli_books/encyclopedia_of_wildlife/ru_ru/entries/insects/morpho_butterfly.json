@@ -1,0 +1,19 @@
+{
+  "name": "Бабочка морфо менелай",
+  "icon": "wildlife:morpho_butterfly",
+  "category": "wildlife:insects",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Морфо менелай — неотропическая бабочка, обитающая в подлесках.$(br2)У них медленный и плавный полёт, и они питаются фруктами, упавшими на землю.$(br2)Для защиты от дождя могут укрываться в небольших закрытых помещениях."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/morpho_butterfly.png"],
+      "title": "Бабочка морфо менелай",
+      "text": "$(br)Бабочка морфо менелай.",
+      "border": true
+    }
+  ]
+}

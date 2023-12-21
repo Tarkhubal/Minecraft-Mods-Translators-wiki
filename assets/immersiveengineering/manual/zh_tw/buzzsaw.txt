@@ -1,0 +1,11 @@
+伐木機械鋸
+我們不去拉文霍姆
+<&recipes>這個巨大的，便攜式的伐木機械鋸被設計用來快速處理樹木和其他樹葉，不然它們可能會擋住一個原始工廠的建築之路。
+在使用<link;workbench;工程師裝配台;start>製作一個鋸條，並且裝入<link;refinery;生物柴油;start>或其它燃料之後，它可以被用來砍伐任何樹木，從小的白樺到大的叢林木。
+
+像其它工具一樣，伐木機械鋸也可以使用<link;workbench;工程師裝配台>進行改裝。這些升級影響內部儲罐容量和鋸條耐久。
+<np>
+<&rockcutter_recipe>如果使用§2鑿石機刀片§r代替普通的鋸條，伐木機械鋸可以從地下開採石頭塊，就像§2精准採集§r附魔一樣。但是，這種鑽石邊緣的鋸條不能再用來砍伐樹木。 <np>
+<&tank_recipe>§2大型燃料缸§r增加儲罐容量2000mb。 <np>
+<&lube_recipe>§2高級潤滑系統§r向鋸條添加額外的潤滑劑，減少耐久的消耗。 <np>
+<&quiver_recipe>向鋸子添加§2刀片盒子§r，你可以攜帶額外的兩根鋸條。你可以使用<config;b;tools.chemthrower.scroll;潛行鼠標滾輪，或使用;using>按鍵§l<keybind;key.immersiveengineering.chemthrowerSwitch>§r來進行鋸條切換，如果按鍵綁定已設置。

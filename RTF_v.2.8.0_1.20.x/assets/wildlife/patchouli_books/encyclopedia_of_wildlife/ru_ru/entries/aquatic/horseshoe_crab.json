@@ -1,0 +1,19 @@
+{
+  "name": "Мечехвост",
+  "icon": "wildlife:textures/gui/entries/horseshoe_crab.png",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Они относятся к классу хелицерат, более близко связанным с арахнидами, такими как пауки и скорпионы.$(br2)Их кровь использует гемоцианин для переноса кислорода, что делает её синей из-за присутствия в ней меди."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/horseshoe_crab.png"],
+      "title": "Мечехвост",
+      "text": "$(br)Мечехвост.",
+      "border": true
+    }
+  ]
+}

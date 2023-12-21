@@ -1,0 +1,19 @@
+{
+  "name": "Длиннохвостая синица",
+  "icon": "wildlife:cottonbird",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Крошечная белая птичка с круглым телом, обитающая в горах и заснеженных местностях.$(br2)Зимой эти птицы могут образовывать небольшие стаи и устраиваться на ночлег кучкой, чтобы сохранить тепло."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/cottonbird.png"],
+      "title": "Длиннохвостая синица",
+      "text": "$(br)Длиннохвостая синица.",
+      "border": true
+    }
+  ]
+}

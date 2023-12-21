@@ -1,0 +1,19 @@
+{
+  "name": "Броненосец",
+  "icon": "wildlife:textures/gui/entries/armadillo.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Что означает «носящие броню», броненосцы характеризуются кожистым панцирем и длинными острыми когтями для рытья. У них короткие ноги, но они могут передвигаться довольно быстро.$(br2)При угрозе хищника броненосцы часто сворачиваются в клубок.$(br2)Они плодовитые копатели."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/armadillo.png"],
+      "title": "Броненосец",
+      "text": "$(br)Броненосец.",
+      "border": true
+    }
+  ]
+}

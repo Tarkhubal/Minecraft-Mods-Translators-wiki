@@ -1,0 +1,19 @@
+{
+  "name": "Кабан",
+  "icon": "wildlife:textures/gui/entries/boar.png",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Крупное, массивно сложенное животное с короткими и относительно тонкими ногами.$(br2)Их голова действует как плуг и хорошо подходит для копания, в то время как мощные мышцы шеи позволяют животному с легкостью переворачивать почву.$(br2)Они способны переворачивать камни весом более 40 килограмм."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/boar.png"],
+      "title": "Кабан",
+      "text": "$(br)Кабан.",
+      "border": true
+    }
+  ]
+}

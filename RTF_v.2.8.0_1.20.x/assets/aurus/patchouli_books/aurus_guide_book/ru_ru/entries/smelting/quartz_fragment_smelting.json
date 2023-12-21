@@ -1,0 +1,17 @@
+{
+  "name": "Осколок кварца",
+  "icon": "aurus:quartz_fragment",
+  "category": "aurus:furnace",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вы можете переплавить кварцевую руду, чтобы получить осколки кварца!"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe2": "aurus:quartz_fragment_from_smelting_deepslate_overworld_quartz_ore",
+      "recipe": "aurus:quartz_fragment_from_smelting_overworld_quartz_ore",
+      "text": "Вы можете использовать плавильно печь, чтобы выплавлять предметы быстрее."
+    }
+  ]
+}

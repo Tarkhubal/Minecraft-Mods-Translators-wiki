@@ -1,0 +1,19 @@
+{
+  "name": "Питон",
+  "icon": "wildlife:python",
+  "category": "wildlife:reptiles",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Питоны — один из самых длинных и тяжёлых видов змей.$(br2)Они отличные пловцы, и о них сообщалось далеко в море."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/python.png"],
+      "title": "Питон",
+      "text": "$(br)Питон.",
+      "border": true
+    }
+  ]
+}

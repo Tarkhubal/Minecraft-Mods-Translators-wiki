@@ -1,0 +1,19 @@
+{
+  "name": "Пресноводная креветка",
+  "icon": "wildlife:raw_prawn",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Крупная пресноводная креветка, обитающая в ручьях, реках и потоках.$(br2)Пресноводные креветки являются амфидромными: они должны жить в солёной воде в виде личинок и переходить в пресную воду взрослыми.$(br2)В водоёмах пресной воды личинки дрейфуют, пока они не достигнут воды с достаточно высокой соленостью."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/prawn.png"],
+      "title": "Пресноводная креветка",
+      "text": "$(br)Пресноводная креветка.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Манта",
+  "icon": "wildlife:textures/gui/entries/mantaray.png",
+  "category": "wildlife:aquatic_creatures",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Большие и спокойные скаты, которых можно встретить в тропических и субтропических водах, фильтруют зоопланктон.$(br2)Из всех видов рыб, они известны своими крупнейшими мозгами, а также крупнейшим соотношением размера мозга к телу.$(br2)Как и все скаты, манты рождают живых детёнышей."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/mantaray.png"],
+      "title": "Манта",
+      "text": "$(br)Манта.",
+      "border": true
+    }
+  ]
+}

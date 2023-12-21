@@ -1,0 +1,15 @@
+{
+  "name": "Кристаллизованный суп",
+  "icon": "aurus:crystalized_soup",
+  "category": "aurus:food",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Суперпитательный суп!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "aurus:crystalized_soup_recipe"
+    }
+  ]
+}

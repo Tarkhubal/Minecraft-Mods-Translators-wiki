@@ -1,0 +1,17 @@
+{
+  "name": "Водолазный костюм",
+  "icon": "aurus:diving_helmet",
+  "category": "aurus:armor",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "aurus:diving_helmet_recipe",
+      "recipe2": "aurus:diving_chestplate_recipe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "aurus:diving_leggings",
+      "recipe2": "aurus:diving_boots"
+    }
+  ]
+}

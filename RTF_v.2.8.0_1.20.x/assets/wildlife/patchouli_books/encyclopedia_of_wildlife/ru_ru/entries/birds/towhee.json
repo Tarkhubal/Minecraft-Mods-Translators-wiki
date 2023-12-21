@@ -1,0 +1,19 @@
+{
+  "name": "Тауи",
+  "icon": "wildlife:towhee",
+  "category": "wildlife:birds",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Крупный и поразительный вид воробьёв, который гнездится в заросших кустарником местах, либо низко в кустах, либо на земле под кустами."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/towhee.png"],
+      "title": "Тауи",
+      "text": "$(br)Тауи.",
+      "border": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Доспехи из прессованного железа",
+  "icon": "pneumaticcraft:compressed_iron_helmet",
+  "category": "pneumaticcraft:armor",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Доспехи из прессованного железа/$ — это комплект доспехов для ранней игры, который немного лучше аналогичного $(item)Железного доспеха/$. Обладают немного более высокой прочностью и сопротивлением отбрасыванию. Могут быть починены на $(item)Наковальне/$ с помощью $(item)Прессованного железного слитка/$."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:compressed_iron_helmet",
+      "recipe2": "pneumaticcraft:compressed_iron_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:compressed_iron_leggings",
+      "recipe2": "pneumaticcraft:compressed_iron_boots"
+    }
+  ]
+}

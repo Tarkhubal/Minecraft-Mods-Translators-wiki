@@ -1,0 +1,19 @@
+{
+  "name": "Поперечнополосатая королевская змея",
+  "icon": "wildlife:milk_snake",
+  "category": "wildlife:reptiles",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Маленькая неядовитая змея, которая сильно напоминает другие ядовитые виды змей.$(br2)Эти змеи обитают во влажных районах летом и мигрируют на зимовку в более высокие и сухие районы."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/milk_snake.png"],
+      "title": "Поперечнополосатая королевская змея",
+      "text": "$(br)Поперечнополосатая королевская змея.",
+      "border": true
+    }
+  ]
+}

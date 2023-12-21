@@ -1,0 +1,19 @@
+{
+  "name": "Хомяк",
+  "icon": "wildlife:hamster",
+  "category": "wildlife:mammals",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Крупный грызун-одиночка, питающийся семенами, фруктами, растительностью и иногда почвенными насекомыми. $(br2)Они используют свои мешочки в щеках, чтобы переносить еду обратно в свои норы. $(br2)Хомяки — отличные копатели и строят норы с несколькими входами, гнездовыми камерами, хранилищами пищи и другими видами деятельности."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["wildlife:textures/gui/entries/illustrations/hamster.png"],
+      "title": "Хомяк",
+      "text": "$(br)Хомяк.",
+      "border": true
+    }
+  ]
+}

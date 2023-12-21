@@ -1,0 +1,20 @@
+{
+  "name": "Кварцевый сплав",
+  "icon": "aurus:quartzum_alloy",
+  "category": "aurus:recipes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Кварцевый сплав — материал, используемый для создания мощного оружия!"
+    },
+    {
+      "type": "aurus:upgrader_template",
+      "output_slot": "aurus:quartzum_alloy",
+      "input_slot_recipe": "minecraft:iron_ingot",
+      "input_slot_1": "minecraft:quartz",
+      "input_slot_2": "minecraft:blaze_powder",
+      "input_slot_3": "minecraft:ender_pearl",
+      "input_slot_4": "minecraft:netherite_ingot"
+    }
+  ]
+}
